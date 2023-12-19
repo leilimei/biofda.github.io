@@ -1,0 +1,3215 @@
+# Translation of Plugins - Download Monitor - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Download Monitor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-23 06:12:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Download Monitor - Stable (latest release)\n"
+
+#: src/Shop/Util/PostType.php:33
+msgid "This is where you can create and manage download products for your site."
+msgstr "您可以在此处创建和管理站点的下载产品。"
+
+#: src/Shop/Util/PostType.php:30
+msgid "Parent Product"
+msgstr "父级产品"
+
+#: src/Shop/Util/PostType.php:29
+msgid "No Products found in trash"
+msgstr "回收站里没有产品"
+
+#: src/Shop/Util/PostType.php:28
+msgid "No Products found"
+msgstr "找不到产品"
+
+#: src/Shop/Util/PostType.php:27
+msgid "Search Products"
+msgstr "搜索产品"
+
+#: src/Shop/Util/PostType.php:25 src/Shop/Util/PostType.php:26
+msgid "View Product"
+msgstr "查看产品"
+
+#: src/Shop/Util/PostType.php:24
+msgid "New Product"
+msgstr "新产品"
+
+#: src/Shop/Util/PostType.php:23
+msgid "Edit Product"
+msgstr "编辑产品"
+
+#: src/Shop/Util/PostType.php:21
+msgid "Add Product"
+msgstr "添加产品"
+
+#: src/Shop/Util/PostType.php:20
+msgid "Add New Product"
+msgstr "添加新产品"
+
+#: src/Shop/Util/PostType.php:17
+msgid "All Products"
+msgstr "全部产品"
+
+#: src/Shop/Admin/DownloadOption.php:30
+msgid "Only users who purchased a product that contains this download will be able to access the file."
+msgstr "只有购买了包含此下载内容的产品的用户才能访问该文件。"
+
+#: src/Shop/Admin/DownloadOption.php:29
+msgid "Paid Only"
+msgstr "仅付费"
+
+#: src/Shop/Admin/WritePanels.php:24
+msgid "Product Information"
+msgstr "产品信息"
+
+#: src/Shop/Shortcode/Buy.php:71
+msgid "Product not found"
+msgstr "找不到产品"
+
+#: src/Admin/Settings/Settings.php:89
+msgid "If enabled, allows you to sell your downloads via Download Monitor."
+msgstr "如果启用，则允许您通过Download Monitor出售下载内容。"
+
+#: src/Admin/Settings/Settings.php:88
+msgid "Enable Shop"
+msgstr "启用商店"
+
+#: src/Admin/Settings/Settings.php:87
+msgid "Shop Enabled"
+msgstr "启用商店"
+
+#: assets/views/meta-box/product-information.php:18
+msgid "Select Downloads&hellip;"
+msgstr "选择下载&hellip;"
+
+#: includes/php-too-low.php:32
+msgid "After you've upgraded your PHP version, Download Monitor will automatically load and work."
+msgstr "升级PHP版本后，Download Monitor将自动加载并运行。"
+
+#: includes/php-too-low.php:29
+msgid "clicking this link"
+msgstr "点击此链接"
+
+#: includes/php-too-low.php:28
+msgid "You can learn more about why it's important that you update and get tips on how to update by %s"
+msgstr "您可以详细了解为什么更新很重要，并获得有关如何按%s更新的提示"
+
+#: includes/php-too-low.php:24 includes/php-too-low.php:25
+msgid "PHP Version %s"
+msgstr "PHP版本%s"
+
+#: includes/php-too-low.php:23
+msgid "Download Monitor can't be loaded because it needs at least %s but the server that is hosting your WordPress website is running %s"
+msgstr "无法加载Download Monitor，因为它至少需要%s，但是托管您的WordPress网站的服务器正在运行%s"
+
+#: includes/php-too-low.php:20
+msgid "PHP Version too low!"
+msgstr "PHP版本太低！"
+
+#: templates/shop/button/add-to-cart-box.php:25
+#: templates/shop/button/add-to-cart-box.php:27
+msgid "Purchase Now"
+msgstr "立即购买"
+
+#: templates/shop/button/add-to-cart.php:14
+msgid "Purchase &ldquo;%s&rdquo;"
+msgstr "购买&ldquo;%s&rdquo;"
+
+#: templates/shop/checkout/error.php:11
+msgid "Checkout error"
+msgstr "结帐错误"
+
+#: templates/shop/checkout/submit-button.php:6
+msgid "Complete order"
+msgstr "完成订单"
+
+#: templates/shop/checkout/order-complete.php:75
+msgid "Download version"
+msgstr "下载版本"
+
+#: templates/shop/checkout/order-complete.php:74
+#: templates/shop/email/elements/downloads-table.php:15
+msgid "Download name"
+msgstr "下载名称"
+
+#: templates/shop/checkout/order-complete.php:9
+msgid "Thank you for your order. Please find your order details below."
+msgstr "谢谢您的订单。请在下面找到您的订单详细信息。"
+
+#: templates/shop/checkout/no-access.php:6
+msgid "You have no access to this order."
+msgstr "您无权访问此订单。"
+
+#: templates/shop/checkout.php:40
+msgid "Your order"
+msgstr "您的订单"
+
+#: templates/shop/checkout.php:36
+msgid "Billing details"
+msgstr "账单详情"
+
+#: templates/shop/checkout.php:22
+msgid "Your browser does not support JavaScript which our checkout page requires to function properly."
+msgstr "您的浏览器不支持我们的结帐页面正常运行所需的JavaScript。"
+
+#: templates/shop/cart.php:56
+msgid "Proceed to checkout"
+msgstr "进行结算"
+
+#: templates/shop/cart.php:47
+msgid "Cart Totals"
+msgstr "购物车总计"
+
+#: templates/shop/cart.php:21
+msgid "Quantity"
+msgstr "数量"
+
+#: templates/shop/cart.php:19
+msgid "Name"
+msgstr "名称"
+
+#: templates/shop/cart/item.php:11
+msgid "Remove this item from your cart"
+msgstr "从购物车中删除该物品"
+
+#: templates/shop/checkout/order-review.php:34
+#: templates/shop/cart/totals.php:11
+msgid "Subtotal"
+msgstr "小计"
+
+#: templates/shop/checkout/empty.php:6 templates/shop/cart/empty.php:6
+msgid "Your cart is empty."
+msgstr "您的购物车是空的。"
+
+#: assets/views/order/page-order-details.php:170
+msgid "Payment Method"
+msgstr "支付网关"
+
+#: assets/views/order/page-order-details.php:161
+msgid "Date created"
+msgstr "创建日期"
+
+#: assets/views/order/page-order-details.php:158
+msgid "Change"
+msgstr "更改"
+
+#: assets/views/order/page-order-details.php:146
+#: templates/shop/checkout/order-complete.php:29
+msgid "Order Status"
+msgstr "订单状态"
+
+#: assets/views/order/page-order-details.php:141
+#: templates/shop/checkout/order-complete.php:21
+msgid "Order Details"
+msgstr "订单明细"
+
+#: assets/views/order/page-order-details.php:115
+msgid "Customer"
+msgstr "客户"
+
+#: assets/views/order/page-order-details.php:105
+msgid "No transactions found"
+msgstr "未找到交易"
+
+#: assets/views/order/page-order-details.php:72
+msgid "Processor ID"
+msgstr "处理器ID"
+
+#: assets/views/order/page-order-details.php:71
+msgid "Processor"
+msgstr "处理器"
+
+#: assets/views/order/page-order-details.php:70
+msgid "Amount"
+msgstr "金额"
+
+#: assets/views/order/page-order-details.php:57
+msgid "Transactions"
+msgstr "交易"
+
+#: assets/views/order/page-order-details.php:27
+msgid "QTY"
+msgstr "数量"
+
+#: assets/views/order/page-order-details.php:26 templates/shop/cart.php:20
+#: src/Shop/Admin/ProductTableColumns.php:34
+msgid "Price"
+msgstr "价格"
+
+#: assets/views/order/page-order-details.php:25
+#: templates/shop/checkout/order-review.php:16 src/Shop/Util/PostType.php:19
+msgid "Product"
+msgstr "产品"
+
+#: assets/views/order/page-order-details.php:19
+msgid "Order Items"
+msgstr "订单项目"
+
+#: assets/views/order/page-order-details.php:14
+msgid "Order Details #%s"
+msgstr "订单明细  #%s"
+
+#: assets/views/meta-box/product-information.php:6
+msgid "Price (%s)"
+msgstr "价格(%s)"
+
+#: src/Util/Onboarding.php:258
+msgid "Create Your First Download"
+msgstr "创建您的首次下载"
+
+#: src/Util/Onboarding.php:251
+msgid "Click here to visit our Support Forum."
+msgstr "单击此处访问我们的支持论坛。"
+
+#: src/Util/Onboarding.php:249
+msgid "If you need any help in setting up your downloads or having any other question about Download Monitor, we'd be happy to help you via our support forums."
+msgstr "如果您在设置下载方面需要任何帮助，或者对Download Monitor有任何其他疑问，我们很乐意通过我们的支持论坛为您提供帮助。"
+
+#: src/Util/Onboarding.php:248
+msgid "Now that your Download Monitor installation is done, it's time to setup your downloads. You can %sread more about creating your first Download here%s."
+msgstr "现在，您已经完成了Download Monitor的安装，是时候设置下载了。 您可以阅读更多，%s此处创建您的第一个下载%s。"
+
+#: src/Util/Onboarding.php:245
+msgid "What's Next?"
+msgstr "下一步呢？"
+
+#: src/Util/Onboarding.php:240
+msgid "View More Extensions"
+msgstr "查看更多扩展"
+
+#: src/Util/Onboarding.php:208
+msgid "Here's a quick sample of what we offer."
+msgstr "这是我们提供的快速样本。"
+
+#: src/Util/Onboarding.php:207
+msgid "Power up your Download Monitor website with our official extensions. Our extensions allow you to add specific functionality to your Download Monitor powered website and come with our premium support and updates."
+msgstr "使用我们的官方扩展程序来增强您的Download Monitor网站。 我们的扩展程序可让您向Download Monitor支持的网站添加特定功能，并提供我们的高级支持和更新。"
+
+#: src/Util/Onboarding.php:177
+msgid "Your shop checkout page if you decide to sell downloads."
+msgstr "如果您决定出售下载内容，您的商店结帐页面。"
+
+#: src/Util/PageCreator.php:40 src/Util/Onboarding.php:176
+msgid "Checkout"
+msgstr "结帐"
+
+#: src/Util/Onboarding.php:152
+msgid "Your shop cart page if you decide to sell downloads."
+msgstr "如果您决定出售下载内容，您的商店购物车页面。"
+
+#: src/Util/PageCreator.php:27 src/Util/Onboarding.php:151
+msgid "Cart"
+msgstr "购物车"
+
+#: src/Util/Onboarding.php:126
+msgid "The page your visitors see when they are not allowed to download a file."
+msgstr "访问者不被允许下载文件时看到的页面。"
+
+#: src/Util/Onboarding.php:121
+msgid "If you don't plan on selling downloads, you do not have to create the cart and checkout page. We recommend always creating the No Access page."
+msgstr "如果您不打算出售下载内容，则不必创建购物车和结帐页面。 我们建议始终创建“无法访问”页面。"
+
+#: src/Util/Onboarding.php:118
+msgid "We can create these pages for you here. If you click the 'Create Page' button we will create that page and add the required shortcode to it. We'll also make sure the newly created page is set in your settings page."
+msgstr "我们可以在这里为您创建这些页面。如果您点击“创建页面”按钮，我们将创建该页面并向其中添加所需的简码。我们还将确保在您的设置页面中设置新创建的页面。"
+
+#: src/Util/Onboarding.php:117
+msgid "In order to function properly, Download Monitor needs to create some pages in your WordPress website."
+msgstr "为了正常运行，Download Monitor需要在WordPress网站中创建一些页面。"
+
+#: src/Util/Onboarding.php:115
+msgid "Let's Create Your Pages"
+msgstr "让我们创建您的页面"
+
+#: src/Util/Onboarding.php:110
+msgid "You decide if you want to offer you downloads for free or want to start selling them (or both!). Whatever you decide, you chose the right plugin for the job!"
+msgstr "您可以决定是要免费提供下载内容还是要开始出售它们（或两者都有！）。无论您决定什么，都可以选择适合该任务的插件！"
+
+#: src/Util/Onboarding.php:107
+msgid "On top of that, Download Monitor allows you to sell your downloads, turning your WordPress website into fully featured e-commerce website out of the box."
+msgstr "最重要的是，Download Monitor允许您出售下载内容，将WordPress网站转变为功能齐全的电子商务网站。"
+
+#: src/Util/Onboarding.php:106
+msgid "With Download Monitor you can manage, track and offer downloads to your users using your WordPress website."
+msgstr "借助Download Monitor，您可以使用WordPress网站管理，跟踪下载并向用户提供下载。"
+
+#: src/Util/Onboarding.php:105
+msgid "Thank you for installing Download Monitor! We'd like to help you setup the plugin correctly so you can start sharing your files as quickly as possible."
+msgstr "感谢您安装Download Monitor！我们想帮助您正确设置插件，以便您可以尽快开始分享文件。"
+
+#: src/Util/Onboarding.php:103
+msgid "Welcome to "
+msgstr "欢迎使用"
+
+#: src/Util/Onboarding.php:82
+msgid "Download Monitor is almost ready for use, %sclick here%s to finish the installation process."
+msgstr "Download Monitor几乎可以使用了，%s单击此处%s以完成安装过程。"
+
+#: src/Util/Onboarding.php:71 src/Util/Onboarding.php:143
+#: src/Util/Onboarding.php:169 src/Util/Onboarding.php:194
+msgid "Create Page"
+msgstr "创建页面"
+
+#: src/Util/Onboarding.php:70 src/Util/Onboarding.php:137
+#: src/Util/Onboarding.php:163 src/Util/Onboarding.php:188
+msgid "Page Created"
+msgstr "页面已创建"
+
+#: src/Util/Onboarding.php:69
+msgid "Creating"
+msgstr "创建"
+
+#: src/Ajax/CreatePage.php:56
+msgid "No page set"
+msgstr "未设置页面"
+
+#: src/Ajax/CreatePage.php:51
+msgid "Couldn't create page"
+msgstr "无法创建页面"
+
+#: src/Admin/Settings/Settings.php:577
+msgid "Check this to allow your customers to use this payment method to pay at your checkout page."
+msgstr "选中此复选框可允许您的客户使用此付款方式在您的结帐页面付款。"
+
+#: src/Admin/Settings/Settings.php:576
+msgid "Enable Gateway"
+msgstr "启用网关"
+
+#: src/Admin/Settings/Settings.php:575
+msgid "Enabled"
+msgstr "已启用"
+
+#: src/Admin/Settings/Settings.php:557
+msgid "This payment method will be pre-selected on your checkout page."
+msgstr "该付款方式将在您的结帐页面上预先选择。"
+
+#: src/Admin/Settings/Settings.php:556
+msgid "Default Gateway"
+msgstr "默认网关"
+
+#: src/Admin/Settings/Settings.php:549
+msgid "Check all payment methods you want to enable on your webshop."
+msgstr "查看您要在网上商店中启用的所有付款方式。"
+
+#: src/Admin/Settings/Settings.php:548
+msgid "Enabled Gateways"
+msgstr "启用网关"
+
+#: src/Admin/Settings/Settings.php:543
+msgid "Overview"
+msgstr "概述"
+
+#: src/Admin/Settings/Settings.php:383
+msgid "Payment Methods"
+msgstr "支付网关"
+
+#: src/Admin/Settings/Settings.php:374
+msgid "If checked, your customers will be send to your checkout page directly."
+msgstr "如果选中，您的客户将被直接导到您的结帐页面。"
+
+#: src/Admin/Settings/Settings.php:373
+msgid "Disable"
+msgstr "禁用"
+
+#: src/Admin/Settings/Settings.php:372
+msgid "Disable Cart"
+msgstr "禁用购物车"
+
+#: src/Admin/Settings/Settings.php:367
+msgid "The thousand separator of displayed prices."
+msgstr "显示价格的千位分隔符。"
+
+#: src/Admin/Settings/Settings.php:366
+msgid "Thousand Separator"
+msgstr "千位分隔符"
+
+#: src/Admin/Settings/Settings.php:360
+msgid "The decimal separator of displayed prices."
+msgstr "显示价格的小数点分隔符。"
+
+#: src/Admin/Settings/Settings.php:359
+msgid "Decimal Separator"
+msgstr "小数点分隔符"
+
+#: src/Admin/Settings/Settings.php:352
+msgid "Right with space (%s)"
+msgstr "右侧留空(%s)"
+
+#: src/Admin/Settings/Settings.php:351
+msgid "Left with space (%s)"
+msgstr "左侧留空(%s)"
+
+#: src/Admin/Settings/Settings.php:350
+msgid "Right (%s)"
+msgstr "右 (%s)"
+
+#: src/Admin/Settings/Settings.php:349
+msgid "Left (%s)"
+msgstr " 左(%s)"
+
+#: src/Admin/Settings/Settings.php:346
+msgid "The position of the currency symbol."
+msgstr "货币符号的位置。"
+
+#: src/Admin/Settings/Settings.php:345
+msgid "Currency Position"
+msgstr "货币位置"
+
+#: src/Admin/Settings/Settings.php:338
+msgid "In what currency are you selling?"
+msgstr "您以哪种货币出售？"
+
+#: src/Admin/Settings/Settings.php:337
+msgid "Currency"
+msgstr "货币"
+
+#: src/Admin/Settings/Settings.php:330
+msgid "Where is your store located?"
+msgstr "您的商店在哪里？"
+
+#: src/Admin/Settings/Settings.php:329
+msgid "Base Country"
+msgstr "基于国家/地区"
+
+#: src/Admin/Settings/Settings.php:315
+msgid "Your checkout page, make sure it has the <code>[dlm_checkout]</code> shortcode."
+msgstr "您的结帐页面，请确保其具有 <code>[dlm_checkout]</code>简码。"
+
+#: src/Admin/Settings/Settings.php:314
+msgid "Checkout page"
+msgstr "结帐页面"
+
+#: src/Admin/Settings/Settings.php:306
+msgid "Your cart page, make sure it has the <code>[dlm_cart]</code> shortcode."
+msgstr "您的购物车页面，请确保其具有<code>[dlm_cart]</code>简码。"
+
+#: src/Admin/Settings/Settings.php:305
+msgid "Cart page"
+msgstr "购物车页面"
+
+#: src/Admin/Settings/Settings.php:281
+msgid "Pages"
+msgstr "页面"
+
+#: src/Shop/Helper/Currency.php:74
+msgid "Vietnamese Dong"
+msgstr "越南盾"
+
+#: src/Shop/Helper/Currency.php:73
+msgid "US Dollars"
+msgstr "美元"
+
+#: src/Shop/Helper/Currency.php:72
+msgid "United Arab Emirates Dirham"
+msgstr "阿拉伯联合酋长国迪拉姆"
+
+#: src/Shop/Helper/Currency.php:71
+msgid "Ugandan Shilling"
+msgstr "乌干达先令"
+
+#: src/Shop/Helper/Currency.php:70
+msgid "Ukrainian Hryvnia"
+msgstr "乌克兰格里夫纳"
+
+#: src/Shop/Helper/Currency.php:69
+msgid "Tanzanian Shilling"
+msgstr "坦桑尼亚先令"
+
+#: src/Shop/Helper/Currency.php:68
+msgid "Taiwan New Dollars"
+msgstr "台湾新台币"
+
+#: src/Shop/Helper/Currency.php:67
+msgid "Turkish Lira"
+msgstr "土耳其里拉"
+
+#: src/Shop/Helper/Currency.php:66
+msgid "Tunisian Dinar"
+msgstr "突尼斯第纳尔"
+
+#: src/Shop/Helper/Currency.php:65
+msgid "Thai Baht"
+msgstr "泰铢"
+
+#: src/Shop/Helper/Currency.php:64
+msgid "Swiss Franc"
+msgstr "瑞士法郎"
+
+#: src/Shop/Helper/Currency.php:63
+msgid "Swedish Krona"
+msgstr "瑞典克朗"
+
+#: src/Shop/Helper/Currency.php:62
+msgid "South African rand"
+msgstr "南非兰特"
+
+#: src/Shop/Helper/Currency.php:61
+msgid "Singapore Dollar"
+msgstr "新加坡元"
+
+#: src/Shop/Helper/Currency.php:60
+msgid "Rwandan Franc"
+msgstr "卢旺达法郎"
+
+#: src/Shop/Helper/Currency.php:59
+msgid "Russian Ruble"
+msgstr "俄罗斯卢布"
+
+#: src/Shop/Helper/Currency.php:58
+msgid "Romanian Leu"
+msgstr "罗马尼亚里奥"
+
+#: src/Shop/Helper/Currency.php:57
+msgid "Pounds Sterling"
+msgstr "英镑"
+
+#: src/Shop/Helper/Currency.php:56
+msgid "Paraguayan Guaraní"
+msgstr "巴拉圭瓜拉尼"
+
+#: src/Shop/Helper/Currency.php:55
+msgid "Polish Zloty"
+msgstr "波兰兹罗提"
+
+#: src/Shop/Helper/Currency.php:54
+msgid "Pakistani Rupee"
+msgstr "巴基斯坦卢比"
+
+#: src/Shop/Helper/Currency.php:53
+msgid "Philippine Pesos"
+msgstr "菲律宾比索"
+
+#: src/Shop/Helper/Currency.php:52
+msgid "New Zealand Dollar"
+msgstr "新西兰元"
+
+#: src/Shop/Helper/Currency.php:51
+msgid "Nepali Rupee"
+msgstr "尼泊尔卢比"
+
+#: src/Shop/Helper/Currency.php:50
+msgid "Norwegian Krone"
+msgstr "挪威克朗"
+
+#: src/Shop/Helper/Currency.php:49
+msgid "Nigerian Naira"
+msgstr "尼日利亚奈拉"
+
+#: src/Shop/Helper/Currency.php:48
+msgid "Mexican Peso"
+msgstr "墨西哥比索"
+
+#: src/Shop/Helper/Currency.php:47
+msgid "Malaysian Ringgits"
+msgstr "马来西亚林吉特"
+
+#: src/Shop/Helper/Currency.php:46
+msgid "South Korean Won"
+msgstr "韩元"
+
+#: src/Shop/Helper/Currency.php:45
+msgid "Lao Kip"
+msgstr "老挝基普"
+
+#: src/Shop/Helper/Currency.php:44
+msgid "Kenyan Shilling"
+msgstr "肯尼亚先令"
+
+#: src/Shop/Helper/Currency.php:43
+msgid "Japanese Yen"
+msgstr "日元"
+
+#: src/Shop/Helper/Currency.php:42
+msgid "Iranian rial"
+msgstr "伊朗里亚尔"
+
+#: src/Shop/Helper/Currency.php:41
+msgid "Israeli Shekel"
+msgstr "以色列谢克尔"
+
+#: src/Shop/Helper/Currency.php:40
+msgid "Indian Rupee"
+msgstr "印度卢比"
+
+#: src/Shop/Helper/Currency.php:39
+msgid "Indonesia Rupiah"
+msgstr "印尼盾"
+
+#: src/Shop/Helper/Currency.php:38
+msgid "Icelandic krona"
+msgstr "冰岛克朗"
+
+#: src/Shop/Helper/Currency.php:37
+msgid "Hungarian Forint"
+msgstr "匈牙利福林"
+
+#: src/Shop/Helper/Currency.php:36
+msgid "Croatia kuna"
+msgstr "克罗地亚库纳"
+
+#: src/Shop/Helper/Currency.php:35
+msgid "Hong Kong Dollar"
+msgstr "港币"
+
+#: src/Shop/Helper/Currency.php:34
+msgid "Ghanaian Cedi"
+msgstr "加纳塞地"
+
+#: src/Shop/Helper/Currency.php:33
+msgid "Euros"
+msgstr "欧元"
+
+#: src/Shop/Helper/Currency.php:32
+msgid "Egyptian Pound"
+msgstr "埃及镑"
+
+#: src/Shop/Helper/Currency.php:31
+msgid "Ethiopian Birr"
+msgstr "埃塞俄比亚比尔"
+
+#: src/Shop/Helper/Currency.php:30
+msgid "Dominican Peso"
+msgstr "多米尼加比索"
+
+#: src/Shop/Helper/Currency.php:29
+msgid "Danish Krone"
+msgstr "丹麦克朗"
+
+#: src/Shop/Helper/Currency.php:28
+msgid "Djiboutian Franc"
+msgstr "吉布提法郎"
+
+#: src/Shop/Helper/Currency.php:27
+msgid "Czech Koruna"
+msgstr "捷克克朗"
+
+#: src/Shop/Helper/Currency.php:26
+msgid "Colombian Peso"
+msgstr "哥伦比亚比索"
+
+#: src/Shop/Helper/Currency.php:25
+msgid "Chinese Yuan"
+msgstr "人民币元"
+
+#: src/Shop/Helper/Currency.php:24
+msgid "Chilean Peso"
+msgstr "智利比索"
+
+#: src/Shop/Helper/Currency.php:23
+msgid "CFA Franc"
+msgstr "非洲金融共同体法郎"
+
+#: src/Shop/Helper/Currency.php:22
+msgid "Canadian Dollars"
+msgstr "加元"
+
+#: src/Shop/Helper/Currency.php:21
+msgid "Burundian Franc"
+msgstr "布隆迪法郎"
+
+#: src/Shop/Helper/Currency.php:20
+msgid "Bulgarian Lev"
+msgstr "保加利亚列弗"
+
+#: src/Shop/Helper/Currency.php:19
+msgid "Brazilian Real"
+msgstr "巴西雷亚尔"
+
+#: src/Shop/Helper/Currency.php:18
+msgid "Bangladeshi Taka"
+msgstr "孟加拉塔卡"
+
+#: src/Shop/Helper/Currency.php:17
+msgid "Australian Dollars"
+msgstr "澳元"
+
+#: src/Shop/Helper/Currency.php:16
+msgid "Argentine Peso"
+msgstr "阿根廷比索"
+
+#: src/Shop/Helper/Country.php:257
+msgid "Zimbabwe"
+msgstr "津巴布韦"
+
+#: src/Shop/Helper/Country.php:256
+msgid "Zambia"
+msgstr "赞比亚"
+
+#: src/Shop/Helper/Country.php:255
+msgid "Yemen"
+msgstr "也门"
+
+#: src/Shop/Helper/Country.php:254
+msgid "Samoa"
+msgstr "萨摩亚"
+
+#: src/Shop/Helper/Country.php:253
+msgid "Western Sahara"
+msgstr "西撒哈拉"
+
+#: src/Shop/Helper/Country.php:252
+msgid "Wallis and Futuna"
+msgstr "瓦利斯和富图纳群岛"
+
+#: src/Shop/Helper/Country.php:251
+msgid "Vietnam"
+msgstr "越南"
+
+#: src/Shop/Helper/Country.php:250
+msgid "Venezuela"
+msgstr "委内瑞拉"
+
+#: src/Shop/Helper/Country.php:249
+msgid "Vatican"
+msgstr "梵蒂冈"
+
+#: src/Shop/Helper/Country.php:248
+msgid "Vanuatu"
+msgstr "瓦努阿图"
+
+#: src/Shop/Helper/Country.php:247
+msgid "Uzbekistan"
+msgstr "乌兹别克斯坦"
+
+#: src/Shop/Helper/Country.php:246
+msgid "Uruguay"
+msgstr "乌拉圭"
+
+#: src/Shop/Helper/Country.php:245
+msgid "United States (US) Virgin Islands"
+msgstr "美国（美属）维尔京群岛"
+
+#: src/Shop/Helper/Country.php:244
+msgid "United States (US) Minor Outlying Islands"
+msgstr "美国本土外小岛屿"
+
+#: src/Shop/Helper/Country.php:243
+msgid "United States (US)"
+msgstr "美国（US）"
+
+#: src/Shop/Helper/Country.php:242
+msgid "United Kingdom (UK)"
+msgstr "英国（UK）"
+
+#: src/Shop/Helper/Country.php:241
+msgid "United Arab Emirates"
+msgstr "阿拉伯联合酋长国"
+
+#: src/Shop/Helper/Country.php:240
+msgid "Ukraine"
+msgstr "乌克兰"
+
+#: src/Shop/Helper/Country.php:239
+msgid "Uganda"
+msgstr "乌干达"
+
+#: src/Shop/Helper/Country.php:238
+msgid "Tuvalu"
+msgstr "图瓦卢"
+
+#: src/Shop/Helper/Country.php:237
+msgid "Turks and Caicos Islands"
+msgstr "特克斯和凯科斯群岛"
+
+#: src/Shop/Helper/Country.php:236
+msgid "Turkmenistan"
+msgstr "土库曼斯坦"
+
+#: src/Shop/Helper/Country.php:235
+msgid "Turkey"
+msgstr "土耳其"
+
+#: src/Shop/Helper/Country.php:234
+msgid "Tunisia"
+msgstr "突尼斯"
+
+#: src/Shop/Helper/Country.php:233
+msgid "Trinidad and Tobago"
+msgstr "特立尼达和多巴哥"
+
+#: src/Shop/Helper/Country.php:232
+msgid "Tonga"
+msgstr "汤加"
+
+#: src/Shop/Helper/Country.php:231
+msgid "Tokelau"
+msgstr "托克劳"
+
+#: src/Shop/Helper/Country.php:230
+msgid "Togo"
+msgstr "多哥"
+
+#: src/Shop/Helper/Country.php:229
+msgid "Timor-Leste"
+msgstr "东帝汶"
+
+#: src/Shop/Helper/Country.php:228
+msgid "Thailand"
+msgstr "泰国"
+
+#: src/Shop/Helper/Country.php:227
+msgid "Tanzania"
+msgstr "坦桑尼亚"
+
+#: src/Shop/Helper/Country.php:226
+msgid "Tajikistan"
+msgstr "塔吉克斯坦"
+
+#: src/Shop/Helper/Country.php:225
+msgid "Taiwan"
+msgstr "中国台湾"
+
+#: src/Shop/Helper/Country.php:224
+msgid "Syria"
+msgstr "叙利亚"
+
+#: src/Shop/Helper/Country.php:223
+msgid "Switzerland"
+msgstr "瑞士"
+
+#: src/Shop/Helper/Country.php:222
+msgid "Sweden"
+msgstr "瑞典"
+
+#: src/Shop/Helper/Country.php:221
+msgid "Swaziland"
+msgstr "斯威士兰"
+
+#: src/Shop/Helper/Country.php:220
+msgid "Svalbard and Jan Mayen"
+msgstr "斯瓦尔巴岛和扬马延岛"
+
+#: src/Shop/Helper/Country.php:219
+msgid "Suriname"
+msgstr "苏里南"
+
+#: src/Shop/Helper/Country.php:218
+msgid "Sudan"
+msgstr "苏丹"
+
+#: src/Shop/Helper/Country.php:217
+msgid "Sri Lanka"
+msgstr "斯里兰卡"
+
+#: src/Shop/Helper/Country.php:216
+msgid "Spain"
+msgstr "西班牙"
+
+#: src/Shop/Helper/Country.php:215
+msgid "South Sudan"
+msgstr "南苏丹"
+
+#: src/Shop/Helper/Country.php:214
+msgid "South Korea"
+msgstr "韩国"
+
+#: src/Shop/Helper/Country.php:213
+msgid "South Georgia/Sandwich Islands"
+msgstr "南乔治亚岛和南桑威奇群岛"
+
+#: src/Shop/Helper/Country.php:212
+msgid "South Africa"
+msgstr "南非"
+
+#: src/Shop/Helper/Country.php:211
+msgid "Somalia"
+msgstr "索马里"
+
+#: src/Shop/Helper/Country.php:210
+msgid "Solomon Islands"
+msgstr "所罗门群岛"
+
+#: src/Shop/Helper/Country.php:209
+msgid "Slovenia"
+msgstr "斯洛文尼亚"
+
+#: src/Shop/Helper/Country.php:208
+msgid "Slovakia"
+msgstr "斯洛伐克"
+
+#: src/Shop/Helper/Country.php:207
+msgid "Singapore"
+msgstr "新加坡"
+
+#: src/Shop/Helper/Country.php:206
+msgid "Sierra Leone"
+msgstr "塞拉利昂"
+
+#: src/Shop/Helper/Country.php:205
+msgid "Seychelles"
+msgstr "塞舌尔"
+
+#: src/Shop/Helper/Country.php:204
+msgid "Serbia"
+msgstr "塞尔维亚"
+
+#: src/Shop/Helper/Country.php:203
+msgid "Senegal"
+msgstr "塞内加尔"
+
+#: src/Shop/Helper/Country.php:202
+msgid "Saudi Arabia"
+msgstr "沙特阿拉伯"
+
+#: src/Shop/Helper/Country.php:201
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr "圣多美和普林西比"
+
+#: src/Shop/Helper/Country.php:200
+msgid "San Marino"
+msgstr "圣马力诺"
+
+#: src/Shop/Helper/Country.php:199
+msgid "Saint Vincent and the Grenadines"
+msgstr "圣文森特和格林纳丁斯"
+
+#: src/Shop/Helper/Country.php:198
+msgid "Saint Pierre and Miquelon"
+msgstr "圣皮埃尔和密克隆群岛"
+
+#: src/Shop/Helper/Country.php:197
+msgid "Saint Martin (Dutch part)"
+msgstr "圣马丁（荷兰部分）"
+
+#: src/Shop/Helper/Country.php:196
+msgid "Saint Martin (French part)"
+msgstr "圣马丁（法国部分）"
+
+#: src/Shop/Helper/Country.php:195
+msgid "Saint Lucia"
+msgstr "圣卢西亚"
+
+#: src/Shop/Helper/Country.php:194
+msgid "Saint Kitts and Nevis"
+msgstr "圣基茨和尼维斯"
+
+#: src/Shop/Helper/Country.php:193
+msgid "Saint Helena"
+msgstr "圣海伦娜"
+
+#: src/Shop/Helper/Country.php:192
+msgid "Saint Barth&eacute;lemy"
+msgstr "圣巴特莱米"
+
+#: src/Shop/Helper/Country.php:191
+msgid "Rwanda"
+msgstr "卢旺达"
+
+#: src/Shop/Helper/Country.php:190
+msgid "Russia"
+msgstr "俄罗斯"
+
+#: src/Shop/Helper/Country.php:189
+msgid "Romania"
+msgstr "罗马尼亚"
+
+#: src/Shop/Helper/Country.php:188
+msgid "Reunion"
+msgstr "留尼汪"
+
+#: src/Shop/Helper/Country.php:187
+msgid "Qatar"
+msgstr "卡塔尔"
+
+#: src/Shop/Helper/Country.php:186
+msgid "Puerto Rico"
+msgstr "波多黎各"
+
+#: src/Shop/Helper/Country.php:185
+msgid "Portugal"
+msgstr "葡萄牙"
+
+#: src/Shop/Helper/Country.php:184
+msgid "Poland"
+msgstr "波兰"
+
+#: src/Shop/Helper/Country.php:183
+msgid "Pitcairn"
+msgstr "皮特凯恩"
+
+#: src/Shop/Helper/Country.php:182
+msgid "Philippines"
+msgstr "菲律宾"
+
+#: src/Shop/Helper/Country.php:181
+msgid "Peru"
+msgstr "秘鲁"
+
+#: src/Shop/Helper/Country.php:180
+msgid "Paraguay"
+msgstr "巴拉圭"
+
+#: src/Shop/Helper/Country.php:179
+msgid "Papua New Guinea"
+msgstr "巴布亚新几内亚"
+
+#: src/Shop/Helper/Country.php:178
+msgid "Panama"
+msgstr "巴拿马"
+
+#: src/Shop/Helper/Country.php:177
+msgid "Palestinian Territory"
+msgstr "巴勒斯坦领土"
+
+#: src/Shop/Helper/Country.php:176
+msgid "Pakistan"
+msgstr "巴基斯坦"
+
+#: src/Shop/Helper/Country.php:175
+msgid "Oman"
+msgstr "阿曼"
+
+#: src/Shop/Helper/Country.php:174
+msgid "Norway"
+msgstr "挪威"
+
+#: src/Shop/Helper/Country.php:173
+msgid "North Korea"
+msgstr "朝鲜"
+
+#: src/Shop/Helper/Country.php:172
+msgid "Northern Mariana Islands"
+msgstr "北马里亚纳群岛"
+
+#: src/Shop/Helper/Country.php:171
+msgid "Norfolk Island"
+msgstr "诺福克岛"
+
+#: src/Shop/Helper/Country.php:170
+msgid "Niue"
+msgstr "纽埃"
+
+#: src/Shop/Helper/Country.php:169
+msgid "Nigeria"
+msgstr "尼日利亚"
+
+#: src/Shop/Helper/Country.php:168
+msgid "Niger"
+msgstr "尼日尔"
+
+#: src/Shop/Helper/Country.php:167
+msgid "Nicaragua"
+msgstr "尼加拉瓜"
+
+#: src/Shop/Helper/Country.php:166
+msgid "New Zealand"
+msgstr "新西兰"
+
+#: src/Shop/Helper/Country.php:165
+msgid "New Caledonia"
+msgstr "新喀里多尼亚"
+
+#: src/Shop/Helper/Country.php:164
+msgid "Netherlands"
+msgstr "荷兰"
+
+#: src/Shop/Helper/Country.php:163
+msgid "Nepal"
+msgstr "尼泊尔"
+
+#: src/Shop/Helper/Country.php:162
+msgid "Nauru"
+msgstr "瑙鲁"
+
+#: src/Shop/Helper/Country.php:161
+msgid "Namibia"
+msgstr "纳米比亚"
+
+#: src/Shop/Helper/Country.php:160
+msgid "Myanmar"
+msgstr "缅甸"
+
+#: src/Shop/Helper/Country.php:159
+msgid "Mozambique"
+msgstr "莫桑比克"
+
+#: src/Shop/Helper/Country.php:158
+msgid "Morocco"
+msgstr "摩洛哥"
+
+#: src/Shop/Helper/Country.php:157
+msgid "Montserrat"
+msgstr "蒙特塞拉特"
+
+#: src/Shop/Helper/Country.php:156
+msgid "Montenegro"
+msgstr "黑山"
+
+#: src/Shop/Helper/Country.php:155
+msgid "Mongolia"
+msgstr "蒙古"
+
+#: src/Shop/Helper/Country.php:154
+msgid "Monaco"
+msgstr "摩纳哥"
+
+#: src/Shop/Helper/Country.php:153
+msgid "Moldova"
+msgstr "摩尔多瓦"
+
+#: src/Shop/Helper/Country.php:152
+msgid "Micronesia"
+msgstr "密克罗尼西亚"
+
+#: src/Shop/Helper/Country.php:151
+msgid "Mexico"
+msgstr "墨西哥"
+
+#: src/Shop/Helper/Country.php:150
+msgid "Mayotte"
+msgstr "马约特岛"
+
+#: src/Shop/Helper/Country.php:149
+msgid "Mauritius"
+msgstr "毛里求斯"
+
+#: src/Shop/Helper/Country.php:148
+msgid "Mauritania"
+msgstr "毛里塔尼亚"
+
+#: src/Shop/Helper/Country.php:147
+msgid "Martinique"
+msgstr "马提尼克"
+
+#: src/Shop/Helper/Country.php:146
+msgid "Marshall Islands"
+msgstr "马绍尔群岛"
+
+#: src/Shop/Helper/Country.php:145
+msgid "Malta"
+msgstr "马耳他"
+
+#: src/Shop/Helper/Country.php:144
+msgid "Mali"
+msgstr "马里"
+
+#: src/Shop/Helper/Country.php:143
+msgid "Maldives"
+msgstr "马尔代夫"
+
+#: src/Shop/Helper/Country.php:142
+msgid "Malaysia"
+msgstr "马来西亚"
+
+#: src/Shop/Helper/Country.php:141
+msgid "Malawi"
+msgstr "马拉维"
+
+#: src/Shop/Helper/Country.php:140
+msgid "Madagascar"
+msgstr "马达加斯加"
+
+#: src/Shop/Helper/Country.php:139
+msgid "Macedonia"
+msgstr "马其顿"
+
+#: src/Shop/Helper/Country.php:138
+msgid "Macao S.A.R., China"
+msgstr "中国澳门特别行政区"
+
+#: src/Shop/Helper/Country.php:137
+msgid "Luxembourg"
+msgstr "卢森堡"
+
+#: src/Shop/Helper/Country.php:136
+msgid "Lithuania"
+msgstr "立陶宛"
+
+#: src/Shop/Helper/Country.php:135
+msgid "Liechtenstein"
+msgstr "列支敦士登"
+
+#: src/Shop/Helper/Country.php:134
+msgid "Libya"
+msgstr "利比亚"
+
+#: src/Shop/Helper/Country.php:133
+msgid "Liberia"
+msgstr "利比里亚"
+
+#: src/Shop/Helper/Country.php:132
+msgid "Lesotho"
+msgstr "莱索托"
+
+#: src/Shop/Helper/Country.php:131
+msgid "Lebanon"
+msgstr "黎巴嫩"
+
+#: src/Shop/Helper/Country.php:130
+msgid "Latvia"
+msgstr "拉脱维亚"
+
+#: src/Shop/Helper/Country.php:129
+msgid "Laos"
+msgstr "老挝"
+
+#: src/Shop/Helper/Country.php:128
+msgid "Kyrgyzstan"
+msgstr "吉尔吉斯斯坦"
+
+#: src/Shop/Helper/Country.php:127
+msgid "Kuwait"
+msgstr "科威特"
+
+#: src/Shop/Helper/Country.php:126
+msgid "Kiribati"
+msgstr "基里巴斯"
+
+#: src/Shop/Helper/Country.php:125
+msgid "Kenya"
+msgstr "肯尼亚"
+
+#: src/Shop/Helper/Country.php:124
+msgid "Kazakhstan"
+msgstr "哈萨克斯坦"
+
+#: src/Shop/Helper/Country.php:123
+msgid "Jordan"
+msgstr "约旦"
+
+#: src/Shop/Helper/Country.php:122
+msgid "Jersey"
+msgstr "泽西岛"
+
+#: src/Shop/Helper/Country.php:121
+msgid "Japan"
+msgstr "日本"
+
+#: src/Shop/Helper/Country.php:120
+msgid "Jamaica"
+msgstr "牙买加"
+
+#: src/Shop/Helper/Country.php:119
+msgid "Ivory Coast"
+msgstr "象牙海岸"
+
+#: src/Shop/Helper/Country.php:118
+msgid "Italy"
+msgstr "意大利"
+
+#: src/Shop/Helper/Country.php:117
+msgid "Israel"
+msgstr "以色列"
+
+#: src/Shop/Helper/Country.php:116
+msgid "Isle of Man"
+msgstr "马恩岛"
+
+#: src/Shop/Helper/Country.php:115
+msgid "Ireland"
+msgstr "爱尔兰"
+
+#: src/Shop/Helper/Country.php:114
+msgid "Iraq"
+msgstr "伊拉克"
+
+#: src/Shop/Helper/Country.php:113
+msgid "Iran"
+msgstr "伊朗"
+
+#: src/Shop/Helper/Country.php:112
+msgid "Indonesia"
+msgstr "印度尼西亚"
+
+#: src/Shop/Helper/Country.php:111
+msgid "India"
+msgstr "印度"
+
+#: src/Shop/Helper/Country.php:110
+msgid "Iceland"
+msgstr "冰岛"
+
+#: src/Shop/Helper/Country.php:109
+msgid "Hungary"
+msgstr "匈牙利"
+
+#: src/Shop/Helper/Country.php:108
+msgid "Hong Kong"
+msgstr "中国香港"
+
+#: src/Shop/Helper/Country.php:107
+msgid "Honduras"
+msgstr "洪都拉斯"
+
+#: src/Shop/Helper/Country.php:106
+msgid "Heard Island and McDonald Islands"
+msgstr "赫德岛和麦克唐纳群岛"
+
+#: src/Shop/Helper/Country.php:105
+msgid "Haiti"
+msgstr "海地"
+
+#: src/Shop/Helper/Country.php:104
+msgid "Guyana"
+msgstr "圭亚那"
+
+#: src/Shop/Helper/Country.php:103
+msgid "Guinea-Bissau"
+msgstr "几内亚比绍"
+
+#: src/Shop/Helper/Country.php:102
+msgid "Guinea"
+msgstr "几内亚"
+
+#: src/Shop/Helper/Country.php:101
+msgid "Guernsey"
+msgstr "根西岛"
+
+#: src/Shop/Helper/Country.php:100
+msgid "Guatemala"
+msgstr "危地马拉"
+
+#: src/Shop/Helper/Country.php:99
+msgid "Guam"
+msgstr "关岛"
+
+#: src/Shop/Helper/Country.php:98
+msgid "Guadeloupe"
+msgstr "瓜德罗普岛"
+
+#: src/Shop/Helper/Country.php:97
+msgid "Grenada"
+msgstr "格林纳达"
+
+#: src/Shop/Helper/Country.php:96
+msgid "Greenland"
+msgstr "格陵兰岛"
+
+#: src/Shop/Helper/Country.php:95
+msgid "Greece"
+msgstr "希腊"
+
+#: src/Shop/Helper/Country.php:94
+msgid "Gibraltar"
+msgstr "直布罗陀"
+
+#: src/Shop/Helper/Country.php:93
+msgid "Ghana"
+msgstr "加纳"
+
+#: src/Shop/Helper/Country.php:92
+msgid "Germany"
+msgstr "德国"
+
+#: src/Shop/Helper/Country.php:91
+msgid "Georgia"
+msgstr "格鲁吉亚"
+
+#: src/Shop/Helper/Country.php:90
+msgid "Gambia"
+msgstr "冈比亚"
+
+#: src/Shop/Helper/Country.php:89
+msgid "Gabon"
+msgstr "加蓬"
+
+#: src/Shop/Helper/Country.php:88
+msgid "French Southern Territories"
+msgstr "法属南部领地"
+
+#: src/Shop/Helper/Country.php:87
+msgid "French Polynesia"
+msgstr "法属波利尼西亚"
+
+#: src/Shop/Helper/Country.php:86
+msgid "French Guiana"
+msgstr "法属圭亚那"
+
+#: src/Shop/Helper/Country.php:85
+msgid "France"
+msgstr "法国"
+
+#: src/Shop/Helper/Country.php:84
+msgid "Finland"
+msgstr "芬兰"
+
+#: src/Shop/Helper/Country.php:83
+msgid "Fiji"
+msgstr "斐济"
+
+#: src/Shop/Helper/Country.php:82
+msgid "Faroe Islands"
+msgstr "法罗群岛"
+
+#: src/Shop/Helper/Country.php:81
+msgid "Falkland Islands"
+msgstr "福克兰群岛"
+
+#: src/Shop/Helper/Country.php:80
+msgid "Ethiopia"
+msgstr "埃塞俄比亚"
+
+#: src/Shop/Helper/Country.php:79
+msgid "Estonia"
+msgstr "爱沙尼亚"
+
+#: src/Shop/Helper/Country.php:78
+msgid "Eritrea"
+msgstr "厄立特里亚"
+
+#: src/Shop/Helper/Country.php:77
+msgid "Equatorial Guinea"
+msgstr "赤道几内亚"
+
+#: src/Shop/Helper/Country.php:76
+msgid "El Salvador"
+msgstr "萨尔瓦多"
+
+#: src/Shop/Helper/Country.php:75
+msgid "Egypt"
+msgstr "埃及"
+
+#: src/Shop/Helper/Country.php:74
+msgid "Ecuador"
+msgstr "厄瓜多尔"
+
+#: src/Shop/Helper/Country.php:73
+msgid "Dominican Republic"
+msgstr "多米尼加共和国"
+
+#: src/Shop/Helper/Country.php:72
+msgid "Dominica"
+msgstr "多米尼加"
+
+#: src/Shop/Helper/Country.php:71
+msgid "Djibouti"
+msgstr "吉布提"
+
+#: src/Shop/Helper/Country.php:70
+msgid "Denmark"
+msgstr "丹麦"
+
+#: src/Shop/Helper/Country.php:69
+msgid "Czech Republic"
+msgstr "捷克共和国"
+
+#: src/Shop/Helper/Country.php:68
+msgid "Cyprus"
+msgstr "塞浦路斯"
+
+#: src/Shop/Helper/Country.php:67
+msgid "Cura&ccedil;ao"
+msgstr "库拉索"
+
+#: src/Shop/Helper/Country.php:66
+msgid "Cuba"
+msgstr "古巴"
+
+#: src/Shop/Helper/Country.php:65
+msgid "Croatia"
+msgstr "克罗地亚"
+
+#: src/Shop/Helper/Country.php:64
+msgid "Costa Rica"
+msgstr "哥斯达黎加"
+
+#: src/Shop/Helper/Country.php:63
+msgid "Cook Islands"
+msgstr "库克群岛"
+
+#: src/Shop/Helper/Country.php:62
+msgid "Congo (Kinshasa)"
+msgstr "刚果（金沙萨）"
+
+#: src/Shop/Helper/Country.php:61
+msgid "Congo (Brazzaville)"
+msgstr "刚果（布拉柴维尔）"
+
+#: src/Shop/Helper/Country.php:60
+msgid "Comoros"
+msgstr "科摩罗"
+
+#: src/Shop/Helper/Country.php:59
+msgid "Colombia"
+msgstr "哥伦比亚"
+
+#: src/Shop/Helper/Country.php:58
+msgid "Cocos (Keeling) Islands"
+msgstr "科科斯（基林）群岛"
+
+#: src/Shop/Helper/Country.php:57
+msgid "Christmas Island"
+msgstr "圣诞岛"
+
+#: src/Shop/Helper/Country.php:56
+msgid "China"
+msgstr "中国"
+
+#: src/Shop/Helper/Country.php:55
+msgid "Chile"
+msgstr "智利"
+
+#: src/Shop/Helper/Country.php:54
+msgid "Chad"
+msgstr "乍得"
+
+#: src/Shop/Helper/Country.php:53
+msgid "Central African Republic"
+msgstr "中非共和国"
+
+#: src/Shop/Helper/Country.php:52
+msgid "Cayman Islands"
+msgstr "开曼群岛"
+
+#: src/Shop/Helper/Country.php:51
+msgid "Cape Verde"
+msgstr "佛得角"
+
+#: src/Shop/Helper/Country.php:50
+msgid "Canada"
+msgstr "加拿大"
+
+#: src/Shop/Helper/Country.php:49
+msgid "Cameroon"
+msgstr "喀麦隆"
+
+#: src/Shop/Helper/Country.php:48
+msgid "Cambodia"
+msgstr "柬埔寨"
+
+#: src/Shop/Helper/Country.php:47
+msgid "Burundi"
+msgstr "布隆迪"
+
+#: src/Shop/Helper/Country.php:46
+msgid "Burkina Faso"
+msgstr "布基纳法索"
+
+#: src/Shop/Helper/Country.php:45
+msgid "Bulgaria"
+msgstr "保加利亚"
+
+#: src/Shop/Helper/Country.php:44
+msgid "Brunei"
+msgstr "文莱"
+
+#: src/Shop/Helper/Country.php:43
+msgid "British Virgin Islands"
+msgstr "英属维尔京群岛"
+
+#: src/Shop/Helper/Country.php:42
+msgid "British Indian Ocean Territory"
+msgstr "英属印度洋领地"
+
+#: src/Shop/Helper/Country.php:41
+msgid "Brazil"
+msgstr "巴西"
+
+#: src/Shop/Helper/Country.php:40
+msgid "Bouvet Island"
+msgstr "布维岛"
+
+#: src/Shop/Helper/Country.php:39
+msgid "Botswana"
+msgstr "博茨瓦纳"
+
+#: src/Shop/Helper/Country.php:38
+msgid "Bosnia and Herzegovina"
+msgstr "波斯尼亚和黑塞哥维那（简称：波黑）"
+
+#: src/Shop/Helper/Country.php:37
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr "博奈尔岛，圣尤斯达蒂斯和萨巴岛（荷兰加勒比区）"
+
+#: src/Shop/Helper/Country.php:36
+msgid "Bolivia"
+msgstr "玻利维亚"
+
+#: src/Shop/Helper/Country.php:35
+msgid "Bhutan"
+msgstr "不丹"
+
+#: src/Shop/Helper/Country.php:34
+msgid "Bermuda"
+msgstr "百慕大"
+
+#: src/Shop/Helper/Country.php:33
+msgid "Benin"
+msgstr "贝宁"
+
+#: src/Shop/Helper/Country.php:32
+msgid "Belize"
+msgstr "伯利兹"
+
+#: src/Shop/Helper/Country.php:31
+msgid "Belau"
+msgstr "贝劳"
+
+#: src/Shop/Helper/Country.php:30
+msgid "Belgium"
+msgstr "比利时"
+
+#: src/Shop/Helper/Country.php:29
+msgid "Belarus"
+msgstr "白俄罗斯"
+
+#: src/Shop/Helper/Country.php:28
+msgid "Barbados"
+msgstr "巴巴多斯"
+
+#: src/Shop/Helper/Country.php:27
+msgid "Bangladesh"
+msgstr "孟加拉国"
+
+#: src/Shop/Helper/Country.php:26
+msgid "Bahrain"
+msgstr "巴林"
+
+#: src/Shop/Helper/Country.php:25
+msgid "Bahamas"
+msgstr "巴哈马"
+
+#: src/Shop/Helper/Country.php:24
+msgid "Azerbaijan"
+msgstr "阿塞拜疆"
+
+#: src/Shop/Helper/Country.php:23
+msgid "Austria"
+msgstr "奥地利"
+
+#: src/Shop/Helper/Country.php:22
+msgid "Australia"
+msgstr "澳大利亚"
+
+#: src/Shop/Helper/Country.php:21
+msgid "Aruba"
+msgstr "阿鲁巴"
+
+#: src/Shop/Helper/Country.php:20
+msgid "Armenia"
+msgstr "亚美尼亚"
+
+#: src/Shop/Helper/Country.php:19
+msgid "Argentina"
+msgstr "阿根廷"
+
+#: src/Shop/Helper/Country.php:18
+msgid "Antigua and Barbuda"
+msgstr "安提瓜和巴布达"
+
+#: src/Shop/Helper/Country.php:17
+msgid "Antarctica"
+msgstr "南极洲"
+
+#: src/Shop/Helper/Country.php:16
+msgid "Anguilla"
+msgstr "安圭拉"
+
+#: src/Shop/Helper/Country.php:15
+msgid "Angola"
+msgstr "安哥拉"
+
+#: src/Shop/Helper/Country.php:14
+msgid "Andorra"
+msgstr "安道尔"
+
+#: src/Shop/Helper/Country.php:13
+msgid "American Samoa"
+msgstr "美属萨摩亚"
+
+#: src/Shop/Helper/Country.php:12
+msgid "Algeria"
+msgstr "阿尔及利亚"
+
+#: src/Shop/Helper/Country.php:11
+msgid "Albania"
+msgstr "阿尔巴尼亚"
+
+#: src/Shop/Helper/Country.php:10
+msgid "&#197;land Islands"
+msgstr "奥兰"
+
+#: src/Shop/Helper/Country.php:9
+msgid "Afghanistan"
+msgstr "阿富汗"
+
+#: src/Shop/Checkout/Field.php:87
+msgid "Country"
+msgstr "国家/地区"
+
+#: src/Shop/Checkout/Field.php:77
+msgid "City"
+msgstr "城市"
+
+#: src/Shop/Checkout/Field.php:68
+msgid "Postcode / ZIP"
+msgstr "邮政编码"
+
+#: src/Shop/Checkout/Field.php:59
+msgid "Address"
+msgstr "地址"
+
+#: src/Shop/Checkout/Field.php:50
+msgid "Email address"
+msgstr "电子邮件地址"
+
+#: src/Shop/Checkout/Field.php:41
+msgid "Company name"
+msgstr "公司名称"
+
+#: src/Shop/Checkout/Field.php:32
+msgid "Last name"
+msgstr "姓"
+
+#: src/Shop/Checkout/Field.php:22
+msgid "First name"
+msgstr "名"
+
+#: src/Shop/Checkout/PaymentGateway/Test/TestGateway.php:17
+msgid "Test payments are not real payments, used for testing your website."
+msgstr "测试付款不是真实付款，用于测试您的网站。"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:163
+msgid "Your application sandbox client secret."
+msgstr "您的应用程序沙箱客户端密码。"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:162
+msgid "Sandbox Client Secret"
+msgstr "沙箱客户端密钥"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:156
+msgid "Your application sandbox client ID."
+msgstr "您的应用程序沙箱客户端ID。"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:155
+msgid "Sandbox Client ID"
+msgstr "Sandbox 客户端 ID"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:148
+msgid "Enable Sandbox"
+msgstr "启用 Sandbox"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:147
+msgid "Check to enable PayPal sandbox mode. This allows you to test your PayPal integration."
+msgstr "选中以启用PayPal 沙盒模式。这使您可以测试PayPal集成。"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:146
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:136
+msgid "Test Settings"
+msgstr "测试设置"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:131
+msgid "Your application client secret."
+msgstr "您的应用程序客户端密钥。"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:130
+msgid "Application Client Secret"
+msgstr "应用程序客户端密钥"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:124
+msgid "Your application client ID."
+msgstr "您的应用程序客户端ID"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:123
+msgid "Application Client ID"
+msgstr "应用程序客户端 ID"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:112
+msgid "Application Details"
+msgstr "应用程序详情"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:107
+msgid "This prefix is added to the paypal invoice ID. If you run multiple stores with the same PayPal account, enter an unique prefix per store here."
+msgstr "此前缀将添加到Paypal发票ID。如果您使用同一个PayPal帐户运营多个商店，请在此处为每个商店输入唯一的前缀。"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:106
+msgid "Invoice Prefix"
+msgstr "发票前缀"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:99
+msgid "Click here to read more on how to set this up"
+msgstr "点击这里阅读更多关于如何设置的信息"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:98
+msgid "The same fields from your PayPal application but from the \"sandbox\" mode."
+msgstr "来自PayPal应用程序的相同字段，但来自“沙盒”模式。"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:96
+msgid "Click here to read the full documentation page"
+msgstr "单击此处阅读完整的文档页面"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:94
+msgid "Click here to create a new PayPal application"
+msgstr "单击此处创建新的PayPal应用程序"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:92
+msgid "In order to allow users to pay via PayPal on your website, you need to create an application in PayPal's developer portal. After you've done so, please copy the Client ID and Secret and set them here."
+msgstr "为了允许用户在您的网站上通过PayPal付款，您需要在PayPal的开发者页面中创建一个应用程序。 完成此操作后，请复制客户端ID和密码，然后在此处进行设置。"
+
+#: src/Shop/Checkout/PaymentGateway/PayPal/PayPalGateway.php:21
+msgid "Pay with PayPal"
+msgstr "用PayPal付款"
+
+#: src/Shop/Shortcode/Checkout.php:71
+msgid "Your payment failed, please try again."
+msgstr "付款失败，请重试。"
+
+#: src/Shop/Util/Assets.php:42
+msgid "Please complete the fields highlighted in red"
+msgstr "请填写以红色突出显示的字段"
+
+#: src/Shop/Util/Assets.php:41
+msgid "Please wait while we process your order"
+msgstr "请稍候，我们正在处理您的订单"
+
+#: src/Shop/Util/Assets.php:40
+msgid "Placing your order"
+msgstr "下单"
+
+#: src/Shop/Util/Page.php:110
+msgid "no page"
+msgstr "没有页面"
+
+#: src/Shop/Ajax/AdminChangeOrderStatus.php:28
+msgid "You are not allowed to do this."
+msgstr "你不被允许这样做。"
+
+#: src/Shop/Ajax/PlaceOrder.php:163
+msgid "Payment gateway error: %s"
+msgstr "支付网关错误：%s"
+
+#: src/Shop/Ajax/PlaceOrder.php:90
+msgid "Invalid Payment Gateway"
+msgstr "无效的支付网关"
+
+#: src/Shop/Ajax/PlaceOrder.php:84
+msgid "Not all required fields are set"
+msgstr "所有必填字段尚未全部设置"
+
+#: src/Shop/Email/VarParser.php:133
+msgid "Payment Gateway"
+msgstr "支付网关"
+
+#: src/Shop/Email/VarParser.php:126
+msgid "Order Total"
+msgstr "订单总计"
+
+#: templates/shop/checkout/order-complete.php:33
+#: src/Shop/Email/VarParser.php:122
+msgid "Order Date"
+msgstr "订单日期"
+
+#: templates/shop/checkout/order-complete.php:25
+#: src/Shop/Email/VarParser.php:118
+msgid "Order ID"
+msgstr "订单ID"
+
+#: templates/shop/checkout/order-complete.php:84
+#: src/Shop/Email/VarParser.php:65
+msgid "Download is no longer available"
+msgstr "不再提供下载"
+
+#: src/Shop/Email/Handler.php:25
+msgid "%s: New order"
+msgstr "%s: 新订单"
+
+#: src/Shop/Email/Handler.php:14
+msgid "Your %s order"
+msgstr "您的%s订单"
+
+#: src/Shop/Order/Transaction/Factory.php:42
+msgid "Success"
+msgstr "成功"
+
+#: src/Shop/Order/Transaction/Factory.php:39
+msgid "Pending"
+msgstr "待处理"
+
+#: src/Shop/Order/Status/Factory.php:33
+msgid "Trash"
+msgstr "回收站"
+
+#: src/Shop/Order/Status/Factory.php:30
+msgid "Refunded"
+msgstr "已退款"
+
+#: src/Shop/Order/Status/Factory.php:21
+msgid "Pending Payment"
+msgstr "待付款"
+
+#: src/Admin/Settings/Settings.php:321 src/Shop/Util/PostType.php:18
+msgid "Shop"
+msgstr "商店"
+
+#: src/Shop/Admin/OrderTable.php:291
+msgid "Empty Trash"
+msgstr "清空回收站"
+
+#: src/Shop/Admin/OrderTable.php:200
+msgid "All"
+msgstr "全部"
+
+#: src/Shop/Admin/OrderTable.php:190
+msgid "Orders deleted"
+msgstr "订单已删除"
+
+#: assets/views/order/page-order-details.php:28
+#: assets/views/order/page-order-details.php:47
+#: templates/shop/checkout/order-review.php:17
+#: templates/shop/checkout/order-review.php:38
+#: templates/shop/cart/totals.php:25 templates/shop/cart.php:22
+#: src/Shop/Admin/OrderTable.php:155
+msgid "Total"
+msgstr "总共"
+
+#: src/Shop/Admin/OrderTable.php:62
+msgid "Trashed orders have been permanently deleted."
+msgstr "回收站里订单已被永久删除。"
+
+#: src/Shop/Admin/Pages/Orders.php:65
+msgid "Order with that ID could not be found"
+msgstr "找不到具有该ID的订单"
+
+#: assets/views/order/page-order-overview.php:15
+#: src/Shop/Admin/Pages/Orders.php:22
+msgid "Orders"
+msgstr "订单"
+
+#: src/DownloadPreview/Preview.php:84
+msgid "Select a download first"
+msgstr "首先选择下载"
+
+#: src/Gutenberg.php:50
+msgid "Default from settings"
+msgstr "默认设置"
+
+#: src/Admin/Settings/Settings.php:240
+msgid "If enabled, the counter for each download will only increment and create a log entry once per IP address. Note that this option only works if %s is set to %s."
+msgstr "如果启用，则每次下载的计数器将仅对每个IP地址递增一次并创建一个日志条目。 请注意，仅当%s设置为%s时，此选项才有效。"
+
+#: src/Admin/Settings/Settings.php:232
+msgid "If enabled, the user agent (browser) the user uses to download the file will be stored in your logs."
+msgstr "如果启用，则用户用于下载文件的用户代理（浏览器user agent）将存储在您的日志中。"
+
+#: src/Admin/Settings/Settings.php:230
+msgid "User Agent Logging"
+msgstr "User Agent日志"
+
+#: src/Admin/Settings/Settings.php:224
+msgid "Store no IP address"
+msgstr "不存储IP地址"
+
+#: src/Admin/Settings/Settings.php:223
+msgid "Store anonymized IP address (remove last 3 digits)"
+msgstr "存储匿名IP地址（删除最后3位数字）"
+
+#: src/Admin/Settings/Settings.php:222 src/Admin/Settings/Settings.php:240
+msgid "Store full IP address"
+msgstr "存储完整的IP地址"
+
+#: src/Admin/Settings/Settings.php:219
+msgid "Define if and how you like to store IP addresses of users that download your files in your logs."
+msgstr "定义是否以及如何存储在日志中下载文件的用户的IP地址。"
+
+#: src/Admin/Settings/Settings.php:218 src/Admin/Settings/Settings.php:240
+msgid "IP Address Logging"
+msgstr "IP地址记录"
+
+#: src/LegacyUpgrader/Page.php:48
+msgid "I'm sure I want to run the upgrader anyway"
+msgstr "我确定我还是要运行升级程序"
+
+#: src/LegacyUpgrader/Page.php:46
+msgid "WARNING: We don't think your database needs upgrading. Only continue if you're 100% sure what you're doing!"
+msgstr "警告：我们认为您的数据库不需要升级。仅在您100％确定自己在做什么时才继续！"
+
+#: templates/content-download-no-version.php:13
+msgid "has no version set!"
+msgstr "尚未设置版本！"
+
+#: templates/content-download-no-version.php:12
+msgid "Please set a version in your WordPress admin"
+msgstr "请在您的WordPress管理中设置一个版本"
+
+#: src/TaxonomyManager.php:61
+msgid "Download Tags"
+msgstr "下载标签"
+
+#: src/TaxonomyManager.php:29
+msgid "Download Categories"
+msgstr "下载分类"
+
+#: src/PostTypeManager.php:86
+msgid "Parent Download Version"
+msgstr "父 下载版本"
+
+#: src/PostTypeManager.php:85
+msgid "No Download Versions found in trash"
+msgstr "在回收站中找不到下载版本"
+
+#: src/PostTypeManager.php:84
+msgid "No Download Versions found"
+msgstr "找不到下载版本"
+
+#: src/PostTypeManager.php:83
+msgid "Search Download Versions"
+msgstr "搜索下载版本"
+
+#: src/PostTypeManager.php:81 src/PostTypeManager.php:82
+msgid "View Download Version"
+msgstr "查看下载版本"
+
+#: src/PostTypeManager.php:80
+msgid "New Download Version"
+msgstr "新下载版本"
+
+#: src/PostTypeManager.php:79
+msgid "Edit Download Version"
+msgstr "编辑下载版本"
+
+#: src/PostTypeManager.php:77
+msgid "Add Download Version"
+msgstr "添加下载版本"
+
+#: src/PostTypeManager.php:75
+msgid "Download Version"
+msgstr "下载版本"
+
+#: src/PostTypeManager.php:74
+msgid "Download Versions"
+msgstr "下载版本"
+
+#: src/PostTypeManager.php:73
+msgid "All Download Versions"
+msgstr "所有下载版本"
+
+#: src/Logs/LoggingListTable.php:298
+msgid "Select a User"
+msgstr "选择用户"
+
+#: src/Logs/LogPage.php:83
+msgid "Are you sure you want to delete ALL log items?"
+msgstr "您确定要删除所有日志项目吗？"
+
+#: src/Logs/LogExportCSV.php:78
+msgid "Meta Data"
+msgstr "元数据"
+
+#: src/LegacyUpgrader/Page.php:42
+msgid "Welcome to the Download Monitor Legacy Upgrader. On this page we will upgrade your old Download Monitor (legacy) data so it will work with the latest version. If you're on this page, it should mean that you updated to this version from Download Monitor %s. If you're unsure if this is correct, or you want to read more about the legacy upgrade, we've setup a page that will explain this process in a lot more detail. %sClick here%s if to view that page."
+msgstr "欢迎使用Download Monitor旧版升级程序。在此页面上，我们将升级您的旧“Download Monitor”（旧版）数据，以便将其与最新版本一起使用。如果您在此页面上，则应表示您已从Download Monitor%s.更新到此版本。如果您不确定这是否正确，或者您想了解有关旧版升级的更多信息，我们将设置一个页面，该页面将更详细地说明此过程。如果要查看该页面，请%s单击此处%s。"
+
+#: src/LegacyUpgrader/Page.php:41
+msgid "Download Monitor - Legacy Upgrade"
+msgstr "Download Monitor -旧版升级"
+
+#: src/LegacyUpgrader/Page.php:17
+msgid "Legacy Upgrader"
+msgstr "传统升级"
+
+#: src/DLM.php:260
+msgid "Documentation"
+msgstr "文档"
+
+#: src/Admin/WritePanels.php:99
+msgid "No download information for new downloads."
+msgstr "没有新下载的下载信息。"
+
+#: src/Admin/Settings/Settings.php:406
+msgid "Remove all Download Monitor transients, this can solve version caching issues."
+msgstr "删除所有的下载监视器瞬态，这可以解决版本缓存问题。"
+
+#: src/Admin/Settings/Settings.php:405
+msgid "Clear all transients"
+msgstr "清除所有瞬态"
+
+#: src/Admin/Settings/Settings.php:399
+msgid "Check this box if you would like to completely remove all Download Monitor data when the plugin is deleted."
+msgstr "如果您想在插件被删除时完全删除所有Download Monitor数据，请选中此框。"
+
+#: src/Admin/Settings/Settings.php:397
+msgid "Remove Data on Uninstall?"
+msgstr "在卸载时删除数据？"
+
+#: src/Admin/Settings/Settings.php:390
+msgid "Misc"
+msgstr "其他"
+
+#: src/Admin/Settings/Settings.php:272
+msgid "List browser user agents to blacklist, 1 per line.  Partial matches are sufficient. Regex matching is allowed by surrounding the pattern with forward slashes, e.g. <code>/^Mozilla.+Googlebot/</code>"
+msgstr "将浏览器用户代理列出到黑名单，每行1个。 部分匹配就足够了。 正则表达式匹配可以通过使用正斜杠将模式括起来来实现，例如<code>/^Mozilla.+Googlebot/</code>"
+
+#: src/Admin/Settings/Settings.php:186
+msgid "Generate SHA256 hash for uploaded files"
+msgstr "为上传的文件生成SHA256哈希"
+
+#: src/Admin/Settings/Settings.php:185
+msgid "SHA256 hashes"
+msgstr "SHA256哈希"
+
+#: src/Admin/Settings/Settings.php:163
+msgid "Hashes can optionally be output via shortcodes, but may cause performance issues with large files. %sYou can read more about hashes here%s"
+msgstr "哈希可以选择通过简码输出，但是大文件时可能会导致性能问题。 在这里您可以%s阅读更多有关哈希的信息%s"
+
+#: src/Admin/Settings/Settings.php:121
+msgid "If enabled, downloads will be included in the site's internal search results."
+msgstr "如果启用，下载将包含在网站的站内搜索结果中。"
+
+#: src/Admin/Settings/Settings.php:119
+msgid "Include in Search"
+msgstr "包含在搜索中"
+
+#: src/Admin/Settings/Page.php:67
+msgid "Download Monitor Transients successfully cleared!"
+msgstr "Download Monitor瞬态已成功清除"
+
+#: src/Admin/Reports/Page.php:180
+msgid "Download Reports"
+msgstr "下载报告"
+
+#: src/Admin/Reports/Page.php:141
+msgid "Month"
+msgstr "月"
+
+#: src/Admin/Reports/Page.php:140
+msgid "Per Day"
+msgstr "每天"
+
+#: src/Admin/Reports/Page.php:115
+msgid "Switch to %s"
+msgstr "切换到%s"
+
+#: src/Admin/Reports/Page.php:23
+msgid "Reports"
+msgstr "报告"
+
+#: src/Admin/MediaInsert.php:161
+msgid "Search download"
+msgstr "搜索下载"
+
+#: assets/views/notice-lu-upgrade.php:11
+msgid "hide notice"
+msgstr "隐藏通知"
+
+#: assets/views/notice-lu-upgrade.php:10
+msgid "Take me to the Upgrade Tool"
+msgstr "带我到升级工具"
+
+#: assets/views/notice-lu-upgrade.php:9
+msgid "We've created an upgrading tool that will do all the work for you. You can read more about this tool on %sour website (click here)%s or start the upgrade now."
+msgstr "我们创建了一个升级工具，可以为您完成所有工作。 您可以在%s我们的网站（单击此处）%s上阅读有关此工具的更多信息，或立即开始升级。"
+
+#: assets/views/notice-lu-upgrade.php:8
+msgid "upgrade your downloads"
+msgstr "升级您的下载"
+
+#: assets/views/notice-lu-upgrade.php:8
+msgid "Currently your downloads don't work like they should, we need to %s before they'll work again."
+msgstr "目前，您的下载无法正常运行，我们需要%s才能再次运行。"
+
+#: assets/views/notice-lu-upgrade.php:7
+msgid "It looks like you upgraded to the latest version of Download Monitor from a legacy version (3.x)"
+msgstr "您似乎已从旧版（3.x）升级到了最新版本的Download Monitor。"
+
+#: src/Admin/Settings/Fields/LazySelect.php:41
+msgid "Loading"
+msgstr "正在加载"
+
+#: src/Admin/Settings/Settings.php:113
+msgid "If enabled, Download Monitor will use the X_FORWARDED_FOR HTTP header set by proxies as the IP address. Note that anyone can set this header, making it less secure."
+msgstr "如果启用，Download Monitor将使用代理设置的X_FORWARDED_FOR HTTP标头作为IP地址。 请注意，任何人都可以设置此标头，从而降低其安全性。"
+
+#: src/Admin/Settings/Settings.php:111
+msgid "Allow Proxy IP Override"
+msgstr "允许代理IP覆盖"
+
+#: src/Product/Product.php:430
+msgid "<a href=\"%s\">Register your copy</a> of the <strong>%s</strong> extension to receive access to automatic upgrades and support. Need a license key? <a href=\"%s\" target=\"_blank\">Purchase one now</a>."
+msgstr "<a href=\"%s\">注册扩展%s拷贝</a><strong></strong>以获取对自动升级和支持的访问权限。需要序列号码? <a href=\"%s\" target=\"_blank\">立即购买</a>."
+
+#: src/Logs/LoggingListTable.php:125
+msgid " (v%s no longer exists)"
+msgstr "（v%s不再存在）"
+
+#: src/Logs/LoggingListTable.php:123
+msgid " (v%s)"
+msgstr " (v%s)"
+
+#. Author URI of the plugin
+msgid "https://www.never5.com"
+msgstr "https://www.never5.com"
+
+#. Author of the plugin
+msgid "Never5"
+msgstr "Never5"
+
+#. Description of the plugin
+msgid "A full solution for managing and selling downloadable files, monitoring downloads and outputting download links and file information on your WordPress powered site."
+msgstr "这是一个在你的WordPress站点管理下载文件，监控下载以及输出下载链接和文件信息的全方位解决方案。"
+
+#. Plugin URI of the plugin
+msgid "https://www.download-monitor.com"
+msgstr "http://www.download-monitor.com"
+
+#. Plugin Name of the plugin
+msgid "Download Monitor"
+msgstr "Download Monitor"
+
+#: templates/content-download-button.php:14
+#: templates/content-download-version-list.php:24
+msgid "Downloaded 1 time"
+msgid_plural "Downloaded %d times"
+msgstr[0] "已下载%s次"
+
+#: templates/content-download-button.php:13
+msgid "Download &ldquo;%s&rdquo;"
+msgstr "下载 &ldquo;%s&rdquo;"
+
+#: templates/content-download-box.php:29
+#: templates/shop/checkout/order-complete.php:89
+#: src/Shop/Email/VarParser.php:70
+msgid "Download File"
+msgstr "下载文件"
+
+#: templates/content-download-title.php:13
+#: templates/content-download-box.php:27
+#: templates/content-download-filename.php:14 templates/content-download.php:17
+msgid "Version %s"
+msgstr "版本 %s"
+
+#: templates/content-download-box.php:18
+#: templates/content-download-filename.php:17 templates/content-download.php:20
+msgid "1 download"
+msgid_plural "%d downloads"
+msgstr[0] "下载%d"
+
+#: src/Widgets/Downloads.php:239
+msgid "Show only members only downloads"
+msgstr "仅显示会员下载"
+
+#: src/Widgets/Downloads.php:232
+msgid "Show only featured downloads"
+msgstr "仅显示特色下载"
+
+#: src/Widgets/Downloads.php:224
+msgid "DESC"
+msgstr "降序"
+
+#: src/Widgets/Downloads.php:222
+msgid "ASC"
+msgstr "升序"
+
+#: src/Widgets/Downloads.php:217 src/Shop/Admin/OrderTable.php:152
+msgid "Order"
+msgstr "排序"
+
+#: src/Widgets/Downloads.php:210
+msgid "Date modified"
+msgstr "修改日期"
+
+#: src/Widgets/Downloads.php:208
+msgid "Date added"
+msgstr "添加日期"
+
+#: src/Widgets/Downloads.php:204
+msgid "Random"
+msgstr "随机"
+
+#: src/Widgets/Downloads.php:197
+msgid "Order by"
+msgstr "排序方式"
+
+#: src/Widgets/Downloads.php:193
+msgid "Default template"
+msgstr "默认模板"
+
+#: src/Widgets/Downloads.php:188
+msgid "Output template"
+msgstr "输出模板"
+
+#: src/Widgets/Downloads.php:180
+msgid "Limit"
+msgstr "限制"
+
+#: src/Widgets/Downloads.php:55 src/Widgets/Downloads.php:162
+msgid "Featured Downloads"
+msgstr "特色下载"
+
+#: src/Widgets/Downloads.php:30
+msgid "Downloads List"
+msgstr "下载列表"
+
+#: src/Widgets/Downloads.php:28
+msgid "Display a list of your downloads."
+msgstr "显示您的下载列表"
+
+#: src/Product/Product.php:188
+msgid "License successfully activated."
+msgstr "许可证已成功激活。"
+
+#: src/TaxonomyManager.php:71
+msgid "New Download Tag Name"
+msgstr "新下载标签名称"
+
+#: src/TaxonomyManager.php:70
+msgid "Add New Download Tag"
+msgstr "添加新下载标签"
+
+#: src/TaxonomyManager.php:69
+msgid "Update Download Tag"
+msgstr "更新下载标签"
+
+#: src/TaxonomyManager.php:68
+msgid "Edit Download Tag"
+msgstr "编辑下载标签"
+
+#: src/TaxonomyManager.php:66 src/TaxonomyManager.php:67
+msgid "Parent Download Tag"
+msgstr "父下载标签"
+
+#: src/TaxonomyManager.php:65
+msgid "All Download Tags"
+msgstr "所有下载标签"
+
+#: src/TaxonomyManager.php:64
+msgid "Search Download Tags"
+msgstr "查找下载标签"
+
+#: src/TaxonomyManager.php:63
+msgid "Download Tag"
+msgstr "下载标签"
+
+#: src/TaxonomyManager.php:39
+msgid "New Download Category Name"
+msgstr "新下载分类名称"
+
+#: src/TaxonomyManager.php:38
+msgid "Add New Download Category"
+msgstr "添加新下载分类"
+
+#: src/TaxonomyManager.php:37
+msgid "Update Download Category"
+msgstr "更新下载分类"
+
+#: src/TaxonomyManager.php:36
+msgid "Edit Download Category"
+msgstr "编辑下载分类"
+
+#: src/TaxonomyManager.php:34 src/TaxonomyManager.php:35
+msgid "Parent Download Category"
+msgstr "父下载分类"
+
+#: src/TaxonomyManager.php:33
+msgid "All Download Categories"
+msgstr "所有下载分类"
+
+#: src/TaxonomyManager.php:32
+msgid "Search Download Categories"
+msgstr "查找下载分类"
+
+#: src/TaxonomyManager.php:31
+msgid "Download Category"
+msgstr "下载分类"
+
+#: src/Shortcodes.php:142 src/Shortcodes.php:261
+msgid "Download not found"
+msgstr "下载没有找到"
+
+#: src/PostTypeManager.php:36
+msgid "This is where you can create and manage downloads for your site."
+msgstr "在这儿您可以为您的站点创建和管理下载"
+
+#: src/PostTypeManager.php:34
+msgid "Parent Download"
+msgstr "父下载"
+
+#: src/PostTypeManager.php:33
+msgid "No Downloads found in trash"
+msgstr "在垃圾篓没有找到下载"
+
+#: src/PostTypeManager.php:32
+msgid "No Downloads found"
+msgstr "没有找到下载"
+
+#: src/PostTypeManager.php:31
+msgid "Search Downloads"
+msgstr "查找下载"
+
+#: src/PostTypeManager.php:29 src/PostTypeManager.php:30
+msgid "View Download"
+msgstr "浏览下载"
+
+#: src/PostTypeManager.php:28
+msgid "New Download"
+msgstr "新建下载"
+
+#: src/PostTypeManager.php:27
+msgid "Edit Download"
+msgstr "编辑下载"
+
+#: src/PostTypeManager.php:26 src/PostTypeManager.php:78
+#: src/Shop/Util/PostType.php:22
+msgid "Edit"
+msgstr "编辑"
+
+#: src/PostTypeManager.php:25
+msgid "Add Download"
+msgstr "添加下载"
+
+#: src/PostTypeManager.php:24 src/PostTypeManager.php:76
+msgid "Add New"
+msgstr "新添加"
+
+#: assets/views/meta-box/product-information.php:13 src/PostTypeManager.php:22
+msgid "Downloads"
+msgstr "下载"
+
+#: src/PostTypeManager.php:21
+msgid "All Downloads"
+msgstr "所有下载"
+
+#: src/Util/PageCreator.php:14 src/Util/Onboarding.php:125
+msgid "No Access"
+msgstr "无法访问"
+
+#: src/DownloadHandler.php:557 src/DownloadHandler.php:559
+msgid "File not found."
+msgstr "文件没有找到"
+
+#: src/DownloadHandler.php:552
+msgid "Redirected to remote file."
+msgstr "重定向到远程文件"
+
+#: src/DownloadHandler.php:481 src/DownloadHandler.php:499
+#: src/DownloadHandler.php:506 src/DownloadHandler.php:513
+msgid "Redirected to file"
+msgstr "重定向到文件"
+
+#: src/DownloadHandler.php:397 src/DownloadHandler.php:405
+msgid "No file paths defined."
+msgstr "没有定义文件路径"
+
+#: src/DownloadHandler.php:320 src/DownloadHandler.php:397
+#: src/DownloadHandler.php:405 src/DownloadHandler.php:445
+#: src/DownloadHandler.php:559
+msgid "Download Error"
+msgstr "下载错误"
+
+#: src/DownloadHandler.php:320 src/DownloadHandler.php:397
+#: src/DownloadHandler.php:405 src/DownloadHandler.php:559
+msgid "Go to homepage &rarr;"
+msgstr "转向主页 &rarr;"
+
+#: src/DownloadHandler.php:320
+msgid "Download does not exist."
+msgstr "下载不存在"
+
+#: src/DownloadHandler.php:314
+msgid "Password Required"
+msgstr "需要密码"
+
+#: assets/views/meta-box/version.php:77
+msgid "m"
+msgstr "m"
+
+#: assets/views/meta-box/version.php:74
+msgid "h"
+msgstr "h"
+
+#: assets/views/meta-box/version.php:71
+msgid "File Date"
+msgstr "文件日期"
+
+#: assets/views/meta-box/version.php:44
+msgid "Browse for file"
+msgstr "浏览文件"
+
+#: assets/views/meta-box/version.php:40
+msgid "Insert file URL"
+msgstr "插入文件URL"
+
+#: assets/views/meta-box/version.php:39
+msgid "Choose a file"
+msgstr "选择文件"
+
+#: assets/views/meta-box/version.php:37
+msgid "Upload file"
+msgstr "上传文件"
+
+#: assets/views/meta-box/version.php:31
+msgid "Enter one file path/URL per line - multiple files will be used as mirrors (chosen at random)."
+msgstr "每行输入一个文件路径/URL - 多个文件将被作为镜像(随机选择)"
+
+#: assets/views/meta-box/version.php:28
+msgid "File URL(s)"
+msgstr "文件URL"
+
+#: assets/views/meta-box/version.php:10
+msgid "Downloaded %s time"
+msgid_plural "Downloaded %s times"
+msgstr[0] "已下载%s次"
+
+#: assets/views/meta-box/version.php:10 assets/views/meta-box/version.php:24
+msgid "n/a"
+msgstr "未知"
+
+#: assets/views/meta-box/version.php:10
+msgid "Version <span class=\"version\">%s</span> (%s)"
+msgstr "版本 <span class=\"version\">%s</span> (%s)"
+
+#: assets/views/meta-box/version.php:9
+msgid "Click to toggle"
+msgstr "单击切换"
+
+#: assets/views/meta-box/version.php:8
+msgid "Remove"
+msgstr "移除"
+
+#: src/Shop/Admin/OrderTable.php:285 src/Logs/LoggingListTable.php:329
+msgid "Filter"
+msgstr "过滤"
+
+#: src/Shop/Admin/OrderTable.php:280 src/Logs/LoggingListTable.php:325
+msgid "Show All"
+msgstr "显示所有"
+
+#: src/Shop/Admin/OrderTable.php:278 src/Logs/LoggingListTable.php:323
+msgid "200 per page"
+msgstr "每页200条"
+
+#: src/Shop/Admin/OrderTable.php:276 src/Logs/LoggingListTable.php:321
+msgid "100 per page"
+msgstr "每页100条"
+
+#: src/Shop/Admin/OrderTable.php:274 src/Logs/LoggingListTable.php:319
+msgid "50 per page"
+msgstr "每页50条"
+
+#: src/Shop/Admin/OrderTable.php:272 src/Logs/LoggingListTable.php:317
+msgid "25 per page"
+msgstr "每页25条"
+
+#: src/Shop/Admin/OrderTable.php:264 src/Logs/LoggingListTable.php:291
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: src/Shop/Admin/OrderTable.php:250 src/Logs/LoggingListTable.php:277
+msgid "Show all dates"
+msgstr "显示所有日期"
+
+#: src/Shop/Order/Status/Factory.php:24 src/Logs/LoggingListTable.php:259
+msgid "Completed"
+msgstr "已经完成"
+
+#: src/Logs/LoggingListTable.php:257
+msgid "Redirected"
+msgstr "已重定向"
+
+#: src/Shop/Order/Transaction/Factory.php:45
+#: src/Shop/Order/Status/Factory.php:27 src/Logs/LoggingListTable.php:255
+msgid "Failed"
+msgstr "失败"
+
+#: src/Logs/LoggingListTable.php:253
+msgid "Any status"
+msgstr "任何状态"
+
+#: src/Logs/LoggingListTable.php:236
+msgid "Log entries deleted"
+msgstr "日志条目已删除"
+
+#: assets/views/order/page-order-details.php:165
+#: src/Logs/LoggingListTable.php:198
+msgid "IP Address"
+msgstr "IP地址"
+
+#: src/Logs/LoggingListTable.php:197
+msgid "User"
+msgstr "用户"
+
+#: src/Logs/LoggingListTable.php:163
+msgid "Non-member"
+msgstr "非会员"
+
+#: src/Logs/LoggingListTable.php:129
+msgid "Download #%d (no longer exists)"
+msgstr "下载 #%d (已经不存在)"
+
+#: src/Logs/LoggingListTable.php:102
+msgid "%s ago"
+msgstr "%s 前"
+
+#: src/Logs/LoggingListTable.php:94
+msgid "Download Complete"
+msgstr "下载完成"
+
+#: src/Shop/Admin/OrderTable.php:99 src/Logs/LoggingListTable.php:67
+msgid "Delete"
+msgstr "删除"
+
+#: src/Admin/Admin.php:290
+msgid "If you like %sDownload Monitor%s please leave us a %s★★★★★%s rating. A huge thank you from us in advance!"
+msgstr "如果您喜欢 %sDownload Monitor%s，请给我们一个%s★★★★★%s评级。 我们对您表示非常感谢！"
+
+#: assets/views/order/page-order-details.php:69
+#: src/Shop/Admin/OrderTable.php:154 src/Logs/LogExportCSV.php:77
+msgid "Status"
+msgstr "状态"
+
+#: assets/views/order/page-order-details.php:68
+#: src/Shop/Admin/ProductTableColumns.php:35 src/Shop/Admin/OrderTable.php:153
+#: src/Logs/LoggingListTable.php:200 src/Logs/LogExportCSV.php:76
+msgid "Date"
+msgstr "日期"
+
+#: src/Logs/LoggingListTable.php:199 src/Logs/LogExportCSV.php:75
+msgid "User Agent"
+msgstr "浏览器User-Agent"
+
+#: src/Logs/LogExportCSV.php:74
+msgid "User IP"
+msgstr "用户IP"
+
+#: src/Logs/LogExportCSV.php:73
+msgid "User Email"
+msgstr "用户Email"
+
+#: src/Logs/LogExportCSV.php:72
+msgid "User Login"
+msgstr "用户登录名"
+
+#: src/Logs/LogExportCSV.php:71
+msgid "User ID"
+msgstr "用户ID"
+
+#: src/Logs/LogExportCSV.php:70
+msgid "Filename"
+msgstr "文件名"
+
+#: src/Logs/LogExportCSV.php:69
+msgid "Version ID"
+msgstr "版本ID"
+
+#: src/Logs/LogPage.php:84
+msgid "Delete Logs"
+msgstr "删除日志"
+
+#: src/Logs/LogPage.php:82
+msgid "Export CSV"
+msgstr "导出为CSV"
+
+#: src/Logs/LogPage.php:80
+msgid "Download Logs"
+msgstr "下载日志"
+
+#: src/Admin/Settings/Page.php:178
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: src/Admin/Settings/Page.php:101
+msgid "Settings successfully saved"
+msgstr "已经成功保存设置"
+
+#: src/Admin/Settings/Page.php:204
+msgid "Please add the following rules to your nginx config to disable direct file access: %s"
+msgstr "请在您的nginx配置中添加以下规则以禁用直接文件访问：%s"
+
+#: src/Admin/Settings/Page.php:203
+msgid "Because your server is running on nginx, our .htaccess file can't protect your downloads."
+msgstr "由于您的服务器运行在nginx上，因此我们的.htaccess文件无法保护您的下载。"
+
+#: src/Admin/Admin.php:240 src/Util/Onboarding.php:205 src/DLM.php:259
+msgid "Extensions"
+msgstr "扩展程序"
+
+#: src/Admin/Settings/Page.php:22 src/DLM.php:258
+msgid "Settings"
+msgstr "设置"
+
+#: src/Logs/LogPage.php:23
+msgid "Logs"
+msgstr "日志"
+
+#: src/Admin/Settings/Settings.php:271
+msgid "Blacklist user agents"
+msgstr "浏览器User-Agent黑名单"
+
+#: src/Admin/Settings/Settings.php:264
+msgid "List IP Addresses to blacklist, 1 per line. Use IP/CIDR netmask format for ranges. IPv4 examples: <code>198.51.100.1</code> or <code>198.51.100.0/24</code>. IPv6 examples: <code>2001:db8::1</code> or <code>2001:db8::/32</code>."
+msgstr "列出要列入黑名单的IP地址，每行1个。范围用IP/CIDR网络掩码格式。 IPv4示例：<code>198.51.100.1</code>或<code>198.51.100.0/24</code>。 IPv6示例: <code>2001:db8::1</code>或<code>2001:db8::/32</code>."
+
+#: src/Admin/Settings/Settings.php:263
+msgid "Blacklist IPs"
+msgstr "IP黑名单"
+
+#: src/Admin/Settings/Settings.php:257
+msgid "The message that will be displayed to visitors when they don't have access to a file."
+msgstr "访问者无权访问文件时将显示给他们的消息。"
+
+#: src/Admin/Settings/Settings.php:256
+msgid "No access message"
+msgstr "无法访问 消息"
+
+#: src/Admin/Settings/Settings.php:254 src/Installer.php:38
+#: src/UpgradeManager.php:56
+msgid "You do not have permission to access this download. %sGo to homepage%s"
+msgstr "您无权访问此下载。 %s转到首页%s"
+
+#: src/Admin/Settings/Settings.php:289
+msgid "Choose what page is displayed when the user has no access to a file. Don't forget to add the <code>[dlm_no_access]</code> shortcode to the page."
+msgstr "选择当用户无法访问文件时显示的页面。不要忘记向页面添加<code>[dlm_no_access]</code>短代码。"
+
+#: src/Admin/Settings/Settings.php:288
+msgid "No Access Page"
+msgstr "无法访问 页面"
+
+#: src/Admin/Settings/Settings.php:248
+msgid "Access"
+msgstr "访问"
+
+#: src/Admin/Settings/Settings.php:238
+msgid "Count unique IPs only"
+msgstr "仅计算唯一IP"
+
+#: src/Admin/Settings/Settings.php:212
+msgid "Log download attempts, IP addresses and more."
+msgstr "记录下载尝试，IP地址等。"
+
+#: src/Admin/Settings/Settings.php:211
+msgid "Download Log"
+msgstr "下载日志"
+
+#: src/Admin/Settings/Settings.php:203
+msgid "Logging"
+msgstr "记录日志"
+
+#: src/Admin/Settings/Settings.php:187 src/Admin/Settings/Settings.php:195
+msgid "Hashes can optionally be output via shortcodes, but may cause performance issues with large files."
+msgstr "哈希可以通过快捷码输出，但大文件可能会引起性能问题。"
+
+#: src/Admin/Settings/Settings.php:194
+msgid "Generate CRC32B hash for uploaded files"
+msgstr "为上传的文件生成CRC32B哈希"
+
+#: src/Admin/Settings/Settings.php:193
+msgid "CRC32B hashes"
+msgstr "CRC32B哈希"
+
+#: src/Admin/Settings/Settings.php:178
+msgid "Generate SHA1 hash for uploaded files"
+msgstr "为上传的文件生成SHA1哈希"
+
+#: src/Admin/Settings/Settings.php:177
+msgid "SHA1 hashes"
+msgstr "SHA1哈希"
+
+#: src/Admin/Settings/Settings.php:170
+msgid "Generate MD5 hash for uploaded files"
+msgstr "为上传的文件生成MD5哈希"
+
+#: src/Admin/Settings/Settings.php:169
+msgid "MD5 hashes"
+msgstr "MD5哈希"
+
+#: src/Admin/Settings/Settings.php:157
+msgid "Hashes"
+msgstr "哈希"
+
+#: src/Admin/Settings/Settings.php:149
+msgid "Download slug"
+msgstr "下载别名"
+
+#: src/Admin/Settings/Settings.php:148 src/Logs/LogExportCSV.php:67
+msgid "Download ID"
+msgstr "下载ID"
+
+#: src/Admin/Settings/Settings.php:145
+msgid "Define what unique value should be used on the end of your endpoint to identify the downloadable file. e.g. ID would give a link like <code>%s</code>"
+msgstr "定义独一无二值放在endpoint之后用来标识下载文件。例如使用 ID 将给出像<code>%s</code>的链接。"
+
+#: src/Admin/Settings/Settings.php:144
+msgid "Endpoint Value"
+msgstr "Endpoint值"
+
+#: src/Admin/Settings/Settings.php:139
+msgid "Define what endpoint should be used for download links. By default this will be <code>%s</code>."
+msgstr "定义用于下载链接的endpoint。默认为 <code>%s</code>。"
+
+#: src/Admin/Settings/Settings.php:138
+msgid "Download Endpoint"
+msgstr "下载的Endpoint"
+
+#: src/Admin/Settings/Settings.php:137 assets/blocks/src/blocks.js:22
+msgid "download"
+msgstr "下载"
+
+#: src/Admin/Settings/Settings.php:129
+msgid "Endpoint"
+msgstr "Endpoint"
+
+#: src/Admin/Settings/Settings.php:105
+msgid "If enabled, the download handler will check the PHP referer to see if it originated from your site and if not, redirect them to the homepage."
+msgstr "如果启用，下载处理器将检查referer查看请求是不是从你的网站发起。如果不是，将请求重定向到首页。"
+
+#: src/Admin/Settings/Settings.php:103
+msgid "Prevent hotlinking"
+msgstr "阻止热链"
+
+#: src/Admin/Settings/Settings.php:97
+msgid "If supported, <code>X-Accel-Redirect</code> / <code>X-Sendfile</code> can be used to serve downloads instead of PHP (server requires <code>mod_xsendfile</code>)."
+msgstr "如果支持， 可以使用<code>X-Accel-Redirect</code> / <code>X-Sendfile</code>供下载， 而不是使用PHP (服务器需要启用<code>mod_xsendfile</code>模块)。"
+
+#: src/Admin/Settings/Settings.php:96 src/Admin/Settings/Settings.php:104
+#: src/Admin/Settings/Settings.php:112 src/Admin/Settings/Settings.php:120
+#: src/Admin/Settings/Settings.php:209 src/Admin/Settings/Settings.php:231
+#: src/Admin/Settings/Settings.php:239 src/Admin/Settings/Settings.php:398
+msgid "Enable"
+msgstr "启用"
+
+#: src/Admin/Settings/Settings.php:95
+msgid "X-Accel-Redirect / X-Sendfile"
+msgstr "X-Accel-Redirect / X-Sendfile"
+
+#: src/Admin/Settings/Settings.php:82
+msgid "Leaving this blank will use the default <code>content-download.php</code> template file. If you enter, for example, <code>button</code>, the <code>content-download-button.php</code> template will be used instead. You can add custom templates inside your theme folder."
+msgstr "留空将使用默认<code>content-download.php</code>模板文件。如果输入了，例如 <code>button</code>，那么将使用<code>content-download-button.php</code>模板文件。您可以在您的主题文件夹添加自己定义模板。"
+
+#: src/Admin/Settings/Settings.php:81 assets/blocks/src/blocks.js:75
+msgid "Custom Template"
+msgstr "自定义模板"
+
+#: src/TemplateHandler.php:22
+msgid "Custom template"
+msgstr "自定义模板"
+
+#: src/TemplateHandler.php:21
+msgid "Version list - Lists all download versions in an unordered list"
+msgstr "版本列表 - 列出所有下载版本的无序列表"
+
+#: src/TemplateHandler.php:20
+msgid "Title - Shows download title only"
+msgstr "标题 - 仅显示下载标题"
+
+#: src/TemplateHandler.php:19
+msgid "Filename - Filename and download count"
+msgstr "文件名 - 文件名和下载次数"
+
+#: src/TemplateHandler.php:18
+msgid "Box - Box showing thumbnail, title, count, filename and filesize."
+msgstr "方框 - 显示缩略图，标题，数目，文件名和文件大小的方框"
+
+#: src/TemplateHandler.php:17
+msgid "Button - CSS styled button showing title and count"
+msgstr "按钮 - 显示标题和数目的CSS形式按钮"
+
+#: src/TemplateHandler.php:16
+msgid "Default - Title and count"
+msgstr "默认 - 标题和数目"
+
+#: src/Admin/Settings/Settings.php:73
+msgid "Choose which template is used for <code>[download]</code> shortcodes by default (this can be overridden by the <code>format</code> argument)."
+msgstr "为快捷码 <code>[download]</code> 选择默认模板（<code>format</code>参数覆盖可以此项）。"
+
+#: src/Admin/Settings/Settings.php:72
+msgid "Default Template"
+msgstr "默认模板"
+
+#: src/Admin/Settings/Settings.php:65 src/Admin/Settings/Settings.php:324
+msgid "General"
+msgstr "通用"
+
+#: src/Admin/Settings/Settings.php:484
+msgid "Select Page"
+msgstr "选择页面"
+
+#: src/Admin/WritePanels.php:188
+msgid "Expand all"
+msgstr "展开所有"
+
+#: src/Admin/WritePanels.php:187
+msgid "Close all"
+msgstr "关闭所有 "
+
+#: src/Admin/WritePanels.php:186
+msgid "Add file"
+msgstr "添加文件"
+
+#: src/Admin/WritePanels.php:142
+msgid "Don't force download. If the <code>dlm_uploads</code> folder is protected you may need to move your file."
+msgstr "不要强行下载。 如果<code>dlm_uploads</code>文件夹受到保护，则可能需要移动文件。"
+
+#: src/Admin/WritePanels.php:136
+msgid "Only logged in users will be able to access the file via a download link if this is enabled."
+msgstr "如果启用此选项，仅登录用户可以通过下载链接访问文件。"
+
+#: src/Admin/WritePanels.php:130
+msgid "Mark this download as featured. Used by shortcodes and widgets."
+msgstr "标记为特色下载。快捷码和小工具可以使用。"
+
+#: src/Admin/WritePanels.php:91
+msgid "Shortcode"
+msgstr "简码"
+
+#: src/Admin/WritePanels.php:85
+msgid "URL"
+msgstr "URL"
+
+#: src/Admin/WritePanels.php:52
+msgid "Short Description"
+msgstr "简洁描述"
+
+#: src/Admin/WritePanels.php:44
+msgid "Downloadable Files/Versions"
+msgstr "可供下载的 文件/版本"
+
+#: src/Admin/WritePanels.php:38
+msgid "Download Options"
+msgstr "下载选项"
+
+#: src/Admin/WritePanels.php:32 assets/blocks/src/blocks.js:56
+msgid "Download Information"
+msgstr "下载信息"
+
+#: src/Admin/AdminScripts.php:206
+msgid "Are you sure you want to delete this file ? "
+msgstr "您确定要删除此文件吗？"
+
+#: src/Admin/MediaInsert.php:354
+msgid "Please wait..."
+msgstr "请稍等 ..."
+
+#: src/Admin/MediaInsert.php:304
+msgid "Allowed Files"
+msgstr "允许的文件"
+
+#: src/Admin/MediaInsert.php:248
+msgid "Save Download"
+msgstr "保存下载"
+
+#: src/Admin/MediaInsert.php:243
+msgid "Optional version number"
+msgstr "可选版本号"
+
+#: src/Admin/MediaInsert.php:237
+msgid "Required title"
+msgstr "标题必选"
+
+#: src/Admin/MediaInsert.php:235 src/Logs/LogExportCSV.php:68
+msgid "Download Title"
+msgstr "下载标题"
+
+#: src/Admin/MediaInsert.php:231
+msgid "Required URL"
+msgstr "必选URL"
+
+#: src/Admin/MediaInsert.php:229
+msgid "Download URL"
+msgstr "下载URL"
+
+#: src/Admin/MediaInsert.php:224
+msgid "Enter URL manually"
+msgstr "手工输入URL"
+
+#: src/Admin/MediaInsert.php:220
+msgid "Select File"
+msgstr "选择文件"
+
+#: src/Admin/MediaInsert.php:217
+msgctxt "Drop file here *or* select file"
+msgid "or"
+msgstr "或"
+
+#: src/Admin/MediaInsert.php:215
+msgid "Drop file here"
+msgstr "把文件拖至这里"
+
+#: src/Admin/MediaInsert.php:198
+msgid "Leaving this blank will use the default <code>content-download.php</code> template file. If you enter, for example, <code>image</code>, the <code>content-download-image.php</code> template will be used instead."
+msgstr "留空将使用默认的<code>content-download.php</code>模板文件。 例如，如果输入<code>image</code>，则将使用<code>content-download-image.php</code>模板。"
+
+#: src/Admin/MediaInsert.php:196
+msgid "Template Name"
+msgstr "模板名称"
+
+#: src/Admin/MediaInsert.php:194 assets/blocks/src/blocks.js:68
+#: assets/blocks/src/blocks.js:70
+msgid "Template"
+msgstr "模板"
+
+#: src/Admin/MediaInsert.php:169
+msgid "Choose a download"
+msgstr "选择下载"
+
+#: src/Admin/MediaInsert.php:137
+msgid "Error: Download was not created."
+msgstr "错误： 未能创建下载。"
+
+#: src/Admin/MediaInsert.php:134
+msgid "Download successfully created."
+msgstr "已成功创建下载。"
+
+#: src/Admin/MediaInsert.php:114
+msgid "Error: File was not created."
+msgstr "错误：未能创建文件。"
+
+#: src/Admin/MediaInsert.php:67
+msgid "Quick-add download"
+msgstr "快速添加下载"
+
+#: src/Admin/MediaInsert.php:66 src/Admin/MediaInsert.php:204
+msgid "Insert Shortcode"
+msgstr "插入快捷码"
+
+#: src/Admin/MediaInsert.php:36 src/Admin/MediaInsert.php:55
+#: src/Admin/AdminScripts.php:201
+msgid "Insert Download"
+msgstr "插入下载"
+
+#: src/Admin/MediaBrowser.php:108
+msgid "No files found"
+msgstr "未找到文件"
+
+#: src/Admin/AdminScripts.php:207 src/Admin/MediaBrowser.php:34
+msgid "Browse for a file"
+msgstr "浏览文件"
+
+#: src/Admin/Extensions.php:67
+msgid "Extend Download Monitor with its powerful free and paid extensions. %sClick here to browse all extensions%s"
+msgstr "使用功能强大的免费和付费扩展增强Download Monitor。 %s点击这里浏览所有扩展%s"
+
+#: src/Admin/Admin.php:240 src/Admin/Extensions.php:34
+msgid "Download Monitor Extensions"
+msgstr "Download Monitor扩展"
+
+#: src/Admin/Dashboard.php:73 src/PostTypeManager.php:23
+#: src/Logs/LoggingListTable.php:195 assets/blocks/src/blocks.js:58
+msgid "Download"
+msgstr "下载"
+
+#: src/Admin/Dashboard.php:60
+msgid "There are no stats available yet!"
+msgstr "目前未统计"
+
+#: src/Admin/Dashboard.php:23
+msgid "Popular Downloads"
+msgstr "热门下载"
+
+#: src/Admin/WritePanels.php:141 src/Admin/CustomActions.php:213
+msgid "Redirect to file"
+msgstr "重定向至文件"
+
+#: src/Admin/WritePanels.php:129 src/Admin/CustomActions.php:209
+msgid "Featured download"
+msgstr "特色下载"
+
+#: src/Admin/CustomActions.php:207
+msgid "Download Monitor Data"
+msgstr "Download Monitor数据"
+
+#: src/Admin/CustomColumns.php:90 src/Admin/CustomColumns.php:97
+#: src/Admin/CustomColumns.php:104
+msgid "Yes"
+msgstr "是"
+
+#: src/Admin/CustomColumns.php:35
+msgid "Date posted"
+msgstr "发布日期"
+
+#: src/Admin/CustomColumns.php:34
+msgid "Redirect only"
+msgstr "仅重定向"
+
+#: src/Admin/WritePanels.php:135 src/Admin/CustomColumns.php:33
+#: src/Admin/CustomActions.php:211
+msgid "Members only"
+msgstr "仅会员"
+
+#: src/Admin/CustomColumns.php:32
+msgid "Featured"
+msgstr "特色"
+
+#: assets/views/meta-box/version.php:64 src/Widgets/Downloads.php:212
+#: src/Admin/CustomColumns.php:31 src/Admin/Dashboard.php:74
+msgid "Download count"
+msgstr "下载次数"
+
+#: src/Admin/CustomColumns.php:30 src/TaxonomyManager.php:59
+#: src/TaxonomyManager.php:62
+msgid "Tags"
+msgstr "标签"
+
+#: src/Admin/CustomColumns.php:29 src/TaxonomyManager.php:27
+#: src/TaxonomyManager.php:30
+msgid "Categories"
+msgstr "分类"
+
+#: assets/views/meta-box/version.php:22
+#: templates/shop/email/elements/downloads-table.php:16
+#: src/Admin/MediaInsert.php:241 src/Admin/CustomColumns.php:28
+#: assets/blocks/src/blocks.js:63
+msgid "Version"
+msgstr "版本"
+
+#: src/Admin/CustomColumns.php:27 src/Logs/LoggingListTable.php:196
+msgid "File"
+msgstr "文件"
+
+#: assets/views/order/page-order-details.php:67 src/Widgets/Downloads.php:206
+#: src/Admin/WritePanels.php:79 src/Admin/CustomColumns.php:26
+msgid "ID"
+msgstr "ID"
+
+#: src/Widgets/Downloads.php:172 src/Widgets/Downloads.php:202
+#: src/Admin/CustomColumns.php:25 src/Shop/Admin/ProductTableColumns.php:33
+msgid "Title"
+msgstr "标题"
+
+#: src/Admin/CustomColumns.php:24 src/Shop/Admin/ProductTableColumns.php:32
+msgid "Image"
+msgstr "图像"
+
+#: src/Admin/CustomLabels.php:54
+msgid "Download draft updated."
+msgstr "下载草稿已更新"
+
+#: src/Admin/CustomLabels.php:53
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: src/Admin/CustomLabels.php:52
+msgid "Download scheduled for: <strong>%1$s</strong>."
+msgstr "已经为<strong>%1$s</strong>安排下载。"
+
+#: src/Admin/CustomLabels.php:51
+msgid "Download submitted."
+msgstr "下载已提交"
+
+#: src/Admin/CustomLabels.php:50
+msgid "Download saved."
+msgstr "下载已保存"
+
+#: src/Admin/CustomLabels.php:49
+msgid "Download published."
+msgstr "下载已发布"
+
+#: src/Admin/CustomLabels.php:48
+msgid "Download restored to revision from %s"
+msgstr " 从%s下载恢复修正"
+
+#: src/Admin/CustomLabels.php:46
+msgid "Custom field deleted."
+msgstr "自定义字段已删除"
+
+#: src/Admin/CustomLabels.php:45
+msgid "Custom field updated."
+msgstr "自定义字段已更新"
+
+#: src/Admin/CustomLabels.php:44 src/Admin/CustomLabels.php:47
+msgid "Download updated."
+msgstr "下载已经更新"
+
+#: src/Admin/CustomLabels.php:24
+msgid "Download title"
+msgstr "下载标题"
+
+#: src/Admin/CustomActions.php:61
+msgid "Select a category"
+msgstr "选择一个分类"

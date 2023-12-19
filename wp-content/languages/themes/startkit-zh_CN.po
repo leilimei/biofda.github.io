@@ -1,0 +1,512 @@
+# Translation of Themes - StartKit in Chinese (China)
+# This file is distributed under the same license as the Themes - StartKit package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-09-27 14:40:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - StartKit\n"
+
+#. Description of the theme
+msgid "StartKit is a unique, clean and professional-looking WordPress theme, perfect for all online digital business. A great variety of layouts and styles allows the creation of different structures and satisfies any specific requirement. The frontend and backend features are focused ease of use so that visitors can get the best user experience. View the demo of StartKit Pro https://www.nayrathemes.com/demo/pro/?theme=startkit"
+msgstr "StartKit是一个独特，干净且具有专业外观的WordPress主题，非常适合所有在线数字业务。多种布局和样式允许创建不同的结构并满足任何特定要求。前端和后端功能集中于易用性，以便访问者可以获得最佳的用户体验。查看StartKit Pro的演示https://www.nayrathemes.com/demo/pro/?theme=startkit"
+
+#. Theme Name of the theme
+msgid "StartKit"
+msgstr "StartKit"
+
+#: inc/customize/startkit-breadcrumb.php:40
+msgid "Hide/Show breadcrumbs"
+msgstr "隐藏/显示面包屑"
+
+#: inc/sidebar/sidebar.php:20
+msgid "Primary widget area"
+msgstr "主小工具区域"
+
+#. Template Name of the theme
+msgid "Default homepage"
+msgstr "默认主页"
+
+#: 404.php:23
+msgid "Ops! Something happened..."
+msgstr "不好意思！发生了一些事..."
+
+#: inc/customize/startkit-premium.php:36
+msgid "Show Some Love"
+msgstr "示爱"
+
+#: inc/customize/startkit-premium.php:32
+msgid "Free Vs Pro"
+msgstr "Free版 Vs Pro版"
+
+#: inc/customize/startkit-premium.php:30
+msgid "Get Support"
+msgstr "获取支持"
+
+#: header.php:18
+msgid "Skip to content"
+msgstr "跳至正文"
+
+#: inc/customize/startkit-premium.php:12 inc/customize/startkit-premium.php:34
+msgid "Upgrade to Pro"
+msgstr "升级成Pro版"
+
+#: inc/customize/startkit-premium.php:28
+msgid "View Documentation"
+msgstr "查看文档"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:401
+msgid "Delete %s"
+msgstr "删除%s"
+
+#: functions.php:73
+msgid "Grey"
+msgstr "灰"
+
+#: functions.php:68
+msgid "Green"
+msgstr "绿"
+
+#: functions.php:63
+msgid "Yellow"
+msgstr "黄色"
+
+#: functions.php:58
+msgid "Secondary"
+msgstr "次级"
+
+#: functions.php:53
+msgid "Primary"
+msgstr "主要"
+
+#: template-parts/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我们可能无法找到您需要的内容。或许搜索功能可以帮到您。"
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布第一篇文章了？<a href=\"%1$s\">从这里开始</a>。"
+
+#: template-parts/content.php:38
+msgid "Pages:"
+msgstr "页码："
+
+#: functions.php:30
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#. Template Name of the theme
+msgid "Page Fullwidth"
+msgstr "页全宽度"
+
+#: inc/class-wp-bootstrap-navwalker.php:371
+msgid "Add a menu"
+msgstr "添加一个菜单"
+
+#: inc/breadcrumb/breadcrumb.php:146
+msgid "Page"
+msgstr "页"
+
+#: inc/breadcrumb/breadcrumb.php:141
+msgid "Error 404 "
+msgstr "404错误 "
+
+#: inc/breadcrumb/breadcrumb.php:137
+msgid "Article posted by "
+msgstr "文章作者"
+
+#: inc/breadcrumb/breadcrumb.php:131
+msgid "Posts tagged "
+msgstr "文章标签 "
+
+#: inc/breadcrumb/breadcrumb.php:32
+msgid "Search results for "
+msgstr "搜索结果"
+
+#: inc/breadcrumb/breadcrumb.php:26
+msgid "Archive by category"
+msgstr "分类归档："
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:663
+#: inc/customizer-repeater/class/customizer-repeater-control.php:696
+msgid "Add Icon"
+msgstr "添加图标"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:658
+#: inc/customizer-repeater/class/customizer-repeater-control.php:688
+msgid "Remove Icon"
+msgstr "移除图标"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:641
+msgid "Social icons"
+msgstr "社交图标"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:633
+msgid "None"
+msgstr "无"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:628
+msgid "Image type"
+msgstr "图像类型"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:621
+msgid "Upload Image"
+msgstr "上传图像"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:618
+#: inc/customizer-repeater/class/customizer-repeater-control.php:632
+msgid "Image"
+msgstr "图像"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:583
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:582
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "注意：某些图标可能没有显示在此处。 您可以在 %1$s 上看到完整的图标列表。"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:566
+msgid "Open link in new tab:"
+msgstr "在新标签页打开链接："
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:468
+msgid "skill"
+msgstr "技能"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:529
+msgid "Delete field"
+msgstr "删除字段"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:385
+#: inc/customizer-repeater/class/customizer-repeater-control.php:518
+msgid "Designation"
+msgstr "职位名称"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:377
+#: inc/customizer-repeater/class/customizer-repeater-control.php:509
+msgid "Shortcode"
+msgstr "短代码"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:367
+#: inc/customizer-repeater/class/customizer-repeater-control.php:431
+msgid "Color"
+msgstr "颜色"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:343
+#: inc/customizer-repeater/class/customizer-repeater-control.php:498
+msgid "Video Url"
+msgstr "视频 URL"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:329
+#: inc/customizer-repeater/class/customizer-repeater-control.php:485
+#: inc/customizer-repeater/class/customizer-repeater-control.php:655
+#: inc/customizer-repeater/class/customizer-repeater-control.php:677
+msgid "Link"
+msgstr "链接"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:318
+#: inc/customizer-repeater/class/customizer-repeater-control.php:475
+msgid "Button Text"
+msgstr "按钮文字"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:310
+msgid "skills"
+msgstr "技能"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:303
+#: inc/customizer-repeater/class/customizer-repeater-control.php:461
+msgid "Button Label"
+msgstr "按钮标签"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:289
+#: inc/customizer-repeater/class/customizer-repeater-control.php:447
+msgid "Subtitle"
+msgstr "字幕"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:39
+msgid "Customizer Repeater"
+msgstr "中继定制器"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:34
+msgid "Add new field"
+msgstr "添加新的字段"
+
+#: inc/sidebar/sidebar.php:30
+msgid "Footer widget area"
+msgstr "页脚小工具区"
+
+#: inc/sidebar/sidebar.php:28
+msgid "Footer widget  area"
+msgstr "页脚小工具区域"
+
+#: inc/sidebar/sidebar.php:18
+msgid "Sidebar Widget Area"
+msgstr "侧边栏小工具区"
+
+#: inc/customizer-notify/startkit-customizer-notify.php:111
+msgid "Activating"
+msgstr "激活中"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:69
+msgid "Edit %s"
+msgstr "编辑 %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:62
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "留下你的评论<span class=\"screen-reader-text\"> 在 %s</span>"
+
+#: inc/template-tags.php:55
+msgid "Tagged %1$s"
+msgstr "标签：%1$s"
+
+#: inc/template-tags.php:49
+msgid "Posted in %1$s"
+msgstr "张贴在%1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:47 inc/template-tags.php:53
+msgid ", "
+msgstr "，"
+
+#: inc/template-tags.php:32
+msgctxt "post author"
+msgid "by %s"
+msgstr "由 %s"
+
+#: inc/template-tags.php:27
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "发表日期 %s"
+
+#: inc/customize/startkit-header.php:164
+msgid "Sticky Header"
+msgstr "置顶页眉"
+
+#: inc/customize/startkit-header.php:151
+msgid "Button link"
+msgstr "按钮链接"
+
+#: inc/customize/startkit-header.php:132
+msgid "Button label"
+msgstr "按钮标签"
+
+#: inc/customize/startkit-header.php:114
+msgid "Button Icon"
+msgstr "按钮图标"
+
+#: inc/customize/startkit-header.php:105
+msgid "fa-book"
+msgstr "fa-book"
+
+#: inc/customize/startkit-header.php:75
+msgid "Button Setting"
+msgstr "按钮设置"
+
+#: inc/customize/startkit-header.php:61
+msgid "Search Icon"
+msgstr "搜索图标"
+
+#: inc/customize/startkit-header.php:24
+msgid "Header Search"
+msgstr "顶部搜索"
+
+#: inc/customize/startkit-header.php:12
+msgid "Header Section"
+msgstr "页眉部分"
+
+#: inc/customize/startkit-breadcrumb.php:68
+msgid "Background Image"
+msgstr "背景图像"
+
+#: inc/customize/startkit-breadcrumb.php:50
+msgid "Background"
+msgstr "背景"
+
+#: inc/customize/startkit-breadcrumb.php:22
+msgid "Settings"
+msgstr "设置"
+
+#: inc/customize/startkit-breadcrumb.php:12
+msgid "Page breadcrumbs"
+msgstr "页面导航条"
+
+#: inc/customize/startkit-blog.php:88
+msgid "Select number of Posts"
+msgstr "选择文章数量"
+
+#: inc/customize/startkit-blog.php:68
+#: inc/customizer-repeater/class/customizer-repeater-control.php:296
+#: inc/customizer-repeater/class/customizer-repeater-control.php:454
+msgid "Description"
+msgstr "描述"
+
+#: inc/customize/startkit-blog.php:50
+#: inc/customizer-repeater/class/customizer-repeater-control.php:281
+#: inc/customizer-repeater/class/customizer-repeater-control.php:439
+msgid "Title"
+msgstr "标题"
+
+#: inc/customize/startkit-blog.php:9
+msgid "Blog Section"
+msgstr "博客部分"
+
+#: inc/customize/startkit-footer.php:113
+#: inc/customizer-repeater/class/customizer-repeater-control.php:577
+#: inc/customizer-repeater/class/customizer-repeater-control.php:631
+msgid "Icon"
+msgstr "图标"
+
+#: inc/customize/startkit-footer.php:112
+msgid "Add New Icon"
+msgstr "添加新图标"
+
+#: inc/customize/startkit-footer.php:70 inc/customize/startkit-footer.php:110
+msgid "Payment Icon"
+msgstr "付款图标"
+
+#: inc/customize/startkit-footer.php:37 inc/customize/startkit-footer.php:90
+#: inc/customize/startkit-blog.php:31 inc/customize/startkit-header.php:42
+#: inc/customize/startkit-header.php:95 inc/customize/startkit-header.php:183
+msgid "Hide / Show Section"
+msgstr "隐藏/显示部分"
+
+#: inc/customize/startkit-footer.php:27 inc/customize/startkit-footer.php:80
+#: inc/customize/startkit-blog.php:21 inc/customize/startkit-breadcrumb.php:31
+#: inc/customize/startkit-header.php:32 inc/customize/startkit-header.php:85
+#: inc/customize/startkit-header.php:174 inc/breadcrumb/breadcrumb.php:4
+#: inc/breadcrumb/breadcrumb.php:7
+msgid "1"
+msgstr "1"
+
+#: inc/customize/startkit-footer.php:17 inc/customize/startkit-footer.php:57
+msgid "Copyright Content"
+msgstr "版权内容"
+
+#: inc/customize/startkit-footer.php:10
+msgid "Footer Section"
+msgstr "页脚部分"
+
+#: inc/customize/customizer_recommended_plugin.php:18
+msgid "Deactivate"
+msgstr "禁用"
+
+#: inc/customize/customizer_recommended_plugin.php:17
+msgid "Activate"
+msgstr "激活"
+
+#: inc/customize/customizer_recommended_plugin.php:16
+msgid "Install and Activate"
+msgstr "安装并激活"
+
+#: inc/customize/customizer_recommended_plugin.php:15
+msgid "Recommended Plugin"
+msgstr "插件推荐"
+
+#: inc/customize/customizer_recommended_plugin.php:14
+msgid "Recommended Actions"
+msgstr "推荐操作"
+
+#: inc/customizer.php:42
+msgid "Homepage Section"
+msgstr "主页部分"
+
+#: sections/startkit-navigation.php:73
+msgid "type here"
+msgstr "在此输入"
+
+#: sections/startkit-breadcrumb.php:38
+msgid "Author: %s"
+msgstr "作者：%s"
+
+#: sections/startkit-breadcrumb.php:34
+msgid "Error 404"
+msgstr "404错误"
+
+#: sections/startkit-breadcrumb.php:30
+msgid "Tag Archives: %s"
+msgstr "标签归档：%s"
+
+#: sections/startkit-breadcrumb.php:26
+msgid "Category Archives: %s"
+msgstr "分类目录归档：%s"
+
+#: sections/startkit-blog.php:49
+msgid "Categories:"
+msgstr "分类目录："
+
+#: 404.php:24 inc/breadcrumb/breadcrumb.php:6
+msgid "Home"
+msgstr "首页"
+
+#: 404.php:22
+msgid "404"
+msgstr "404"
+
+#: single.php:51 sections/startkit-blog.php:42
+#: template-parts/content-page.php:40 template-parts/content-page_grid.php:54
+#: template-parts/content-search.php:40
+msgid "By"
+msgstr "作者"
+
+#: single.php:50 template-parts/content-page.php:39
+#: template-parts/content-page_grid.php:53 template-parts/content-search.php:39
+msgid "Comments"
+msgstr "评论"
+
+#. translators: %s: Name of current post.
+#: single.php:40 sections/startkit-blog.php:70
+#: template-parts/content-page.php:31 template-parts/content-page_grid.php:45
+#: template-parts/content-search.php:31 template-parts/content.php:33
+msgid "Read More"
+msgstr "阅读更多"
+
+#: sections/startkit-breadcrumb.php:22
+msgid "Yearly Archives: %s"
+msgstr "年度归档：%s"
+
+#: sections/startkit-breadcrumb.php:18
+msgid "Monthly Archives: %s"
+msgstr "月度归档：%s"
+
+#: sections/startkit-breadcrumb.php:14
+msgid "Daily Archives: %s"
+msgstr "日度归档：%s"
+
+#: comments.php:82
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: comments.php:48 comments.php:69
+msgid "Newer Comments"
+msgstr "较新评论"
+
+#: comments.php:47 comments.php:68
+msgid "Older Comments"
+msgstr "较早评论"
+
+#: comments.php:44 comments.php:65
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#. Author URI of the theme
+msgid "https://www.nayrathemes.com/"
+msgstr "https://www.nayrathemes.com/"
+
+#. Theme URI of the theme
+msgid "https://www.nayrathemes.com/startkit-free/"
+msgstr "https://www.nayrathemes.com/startkit-free/"
+
+#. Author of the theme
+msgid "Nayra Themes"
+msgstr "Nayra Themes"
